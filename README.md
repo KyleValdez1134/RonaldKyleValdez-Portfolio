@@ -20,6 +20,7 @@ With a decade of experience in BI and QA, I bridge technical rigor with business
 Explore my collection of automation tools across different languages:
 - [SQL Integrity Checker](./scripts/SQL/SQLIntegrityChecker.sql)
 - [Excel VBA Consolidation Tool](./scripts/VBA/ConsolidateFolderFiles.vb)
+- [Integrity Check Procedures](./scripts/SQL/IntegrityCheckProcs.sql)
 
 
 ## 📊 Featured Skills
