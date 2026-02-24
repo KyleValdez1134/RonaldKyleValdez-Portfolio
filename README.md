@@ -21,34 +21,34 @@ Explore my collection of automation tools across different languages:
 
 ### 🗄️ SQL Scripts
 - SQL Integrity Checker  
-  [View](./scripts/SQL/SQLIntegrityChecker.sql) | [Download](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/SQL/SQLIntegrityChecker.sql)
+  [Download](./scripts/SQL/SQLIntegrityChecker.sql) | [View](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/SQL/SQLIntegrityChecker.sql)
 
 - Integrity Check Procedures  
-  [View](./scripts/SQL/IntegrityCheckProcs.sql) | [Download](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/SQL/IntegrityCheckProcs.sql)
+  [Download](./scripts/SQL/IntegrityCheckProcs.sql) | [View](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/SQL/IntegrityCheckProcs.sql)
 
 - SQL Validation Test Scripts  
-  [View](./scripts/SQL/SQL-Validation-TestScripts.sql) | [Download](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/SQL/SQL-Validation-TestScripts.sql)
+  [Download](./scripts/SQL/SQL-Validation-TestScripts.sql) | [View](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/SQL/SQL-Validation-TestScripts.sql)
 
 ---
 
 ### 📊 VBA Macros
 - Excel VBA Consolidation Tool  
-  [View](./scripts/VBA/ConsolidateFolderFiles.vb) | [Download](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/VBA/ConsolidateFolderFiles.vb)
+  [Download](./scripts/VBA/ConsolidateFolderFiles.vb) | [View](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/VBA/ConsolidateFolderFiles.vb)
 
 - Send Emails with Draft or Delayed Options  
-  [View](./scripts/VBA/SendEmailsWithOptions.bas) | [Download](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/VBA/SendEmailsWithOptions.bas)
+  [Download](./scripts/VBA/SendEmailsWithOptions.bas) | [View](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/VBA/SendEmailsWithOptions.bas)
 
 ---
 
 ### 🖥️ VBScript Automation
 - Upload SharePoint Files with Custom Naming  
-  [View](./scripts/VBScript/UploadSharePointFiles_Custom.vbs) | [Download](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/VBScript/UploadSharePointFiles_Custom.vbs)
+  [Download](./scripts/VBScript/UploadSharePointFiles_Custom.vbs) | [View](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/VBScript/UploadSharePointFiles_Custom.vbs)
 
 - Download SharePoint Files and Log to Excel  
-  [View](./scripts/VBScript/DownloadSharePointFiles.vbs) | [Download](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/VBScript/DownloadSharePointFiles.vbs)
+  [Download](./scripts/VBScript/DownloadSharePointFiles.vbs) | [View](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/VBScript/DownloadSharePointFiles.vbs)
 
 - Folder Report to Excel  
-  [View](./scripts/VBScript/FolderReport.vbs) | [Download](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/VBScript/FolderReport.vbs)
+  [Download](./scripts/VBScript/FolderReport.vbs) | [View](https://raw.githubusercontent.com/kylevaldez1134/RonaldKyleValdez-Portfolio/main/scripts/VBScript/FolderReport.vbs)
 
 
 ---
