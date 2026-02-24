@@ -13,7 +13,7 @@ With a decade of experience in BI and QA, I bridge technical rigor with business
 - [Dashboard Gallery](./dashboards/)  
 - [Automation Scripts](./scripts/)  
 - [Resume (PDF)](./resume/RonaldKyleValdez_Resume.pdf)  
-- [LinkedIn](https://www.linkedin.com/in/ronaldkylevaldez)
+- [LinkedIn](https://www.linkedin.com/in/ronaldkylevaldez/)
 
 ---
 
