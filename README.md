@@ -24,7 +24,7 @@ Explore my collection of automation tools across different languages:
 - [SQL Validation Test Scripts](./scripts/SQL/SQL-Validation-TestScripts.sql)
 - [Upload SharePoint Files with Custom Naming](./scripts/VBScript/UploadSharePointFiles_Custom.vbs)
 - [Download SharePoint Files and Log to Excel](./scripts/VBScript/DownloadSharePointFiles.vbs)
-
+- [Folder Report to Excel](./scripts/VBScript/FolderReport.vbs)
 
 ## 📊 Featured Skills
 - **Business Intelligence**: Power BI, Power Query, DAX, SQL Server  
