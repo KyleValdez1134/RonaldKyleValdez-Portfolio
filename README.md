@@ -16,6 +16,11 @@ With a decade of experience in BI and QA, I bridge technical rigor with business
 - [LinkedIn](https://www.linkedin.com/in/ronaldkylevaldez/)
 
 ---
+## ⚙️ Automation Scripts
+Explore my collection of automation tools across different languages:
+- [SQL Integrity Checker](./scripts/SQL/sql-integrity-checker.sql)
+- [Excel VBA Consolidation Tool](./scripts/VBA/consolidate-folder-files.vb)
+
 
 ## 📊 Featured Skills
 - **Business Intelligence**: Power BI, Power Query, DAX, SQL Server  
