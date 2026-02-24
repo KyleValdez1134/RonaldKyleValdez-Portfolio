@@ -21,6 +21,7 @@ Explore my collection of automation tools across different languages:
 - [SQL Integrity Checker](./scripts/SQL/SQLIntegrityChecker.sql)
 - [Excel VBA Consolidation Tool](./scripts/VBA/ConsolidateFolderFiles.vb)
 - [Integrity Check Procedures](./scripts/SQL/IntegrityCheckProcs.sql)
+- [SQL Validation Test Scripts](./scripts/SQL/SQL-Validation-TestScripts.sql)
 
 
 ## 📊 Featured Skills
