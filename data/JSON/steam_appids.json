@@ -1,0 +1,5002 @@
+[
+    {
+        "appid": 730,
+        "name": "Counter-Strike: Global Offensive",
+        "timestamp": "2026-02-25T01:15:42.296311"
+    },
+    {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "timestamp": "2026-02-25T01:15:42.296321"
+    },
+    {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "timestamp": "2026-02-25T01:15:42.296324"
+    },
+    {
+        "appid": 1623730,
+        "name": "Palworld",
+        "timestamp": "2026-02-25T01:15:42.296326"
+    },
+    {
+        "appid": 440,
+        "name": "Team Fortress 2",
+        "timestamp": "2026-02-25T01:15:42.296328"
+    },
+    {
+        "appid": 1938090,
+        "name": "Call of Duty: Modern Warfare II",
+        "timestamp": "2026-02-25T01:15:42.296330"
+    },
+    {
+        "appid": 1063730,
+        "name": "New World: Aeternum",
+        "timestamp": "2026-02-25T01:15:42.296332"
+    },
+    {
+        "appid": 2358720,
+        "name": "Black Myth: Wukong",
+        "timestamp": "2026-02-25T01:15:42.296334"
+    },
+    {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "timestamp": "2026-02-25T01:15:42.296336"
+    },
+    {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "timestamp": "2026-02-25T01:15:42.296338"
+    },
+    {
+        "appid": 304930,
+        "name": "Unturned",
+        "timestamp": "2026-02-25T01:15:42.296340"
+    },
+    {
+        "appid": 1599340,
+        "name": "Lost Ark",
+        "timestamp": "2026-02-25T01:15:42.296342"
+    },
+    {
+        "appid": 236390,
+        "name": "War Thunder",
+        "timestamp": "2026-02-25T01:15:42.296344"
+    },
+    {
+        "appid": 2246340,
+        "name": "Monster Hunter Wilds",
+        "timestamp": "2026-02-25T01:15:42.296346"
+    },
+    {
+        "appid": 553850,
+        "name": "HELLDIVERS 2",
+        "timestamp": "2026-02-25T01:15:42.296348"
+    },
+    {
+        "appid": 230410,
+        "name": "Warframe",
+        "timestamp": "2026-02-25T01:15:42.296350"
+    },
+    {
+        "appid": 1245620,
+        "name": "ELDEN RING",
+        "timestamp": "2026-02-25T01:15:42.296352"
+    },
+    {
+        "appid": 105600,
+        "name": "Terraria",
+        "timestamp": "2026-02-25T01:15:42.296355"
+    },
+    {
+        "appid": 2694490,
+        "name": "Path of Exile 2",
+        "timestamp": "2026-02-25T01:15:42.296357"
+    },
+    {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "timestamp": "2026-02-25T01:15:42.296359"
+    },
+    {
+        "appid": 1086940,
+        "name": "Baldur's Gate 3",
+        "timestamp": "2026-02-25T01:15:42.296361"
+    },
+    {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "timestamp": "2026-02-25T01:15:42.296363"
+    },
+    {
+        "appid": 4000,
+        "name": "Garry's Mod",
+        "timestamp": "2026-02-25T01:15:42.296365"
+    },
+    {
+        "appid": 1085660,
+        "name": "Destiny 2",
+        "timestamp": "2026-02-25T01:15:42.296367"
+    },
+    {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "timestamp": "2026-02-25T01:15:42.296369"
+    },
+    {
+        "appid": 252490,
+        "name": "Rust",
+        "timestamp": "2026-02-25T01:15:42.296371"
+    },
+    {
+        "appid": 552990,
+        "name": "World of Warships",
+        "timestamp": "2026-02-25T01:15:42.296373"
+    },
+    {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "timestamp": "2026-02-25T01:15:42.296375"
+    },
+    {
+        "appid": 413150,
+        "name": "Stardew Valley",
+        "timestamp": "2026-02-25T01:15:42.296377"
+    },
+    {
+        "appid": 242760,
+        "name": "The Forest",
+        "timestamp": "2026-02-25T01:15:42.296379"
+    },
+    {
+        "appid": 1491000,
+        "name": "War Robots: Frontiers",
+        "timestamp": "2026-02-25T01:15:42.296381"
+    },
+    {
+        "appid": 238960,
+        "name": "Path of Exile",
+        "timestamp": "2026-02-25T01:15:42.296383"
+    },
+    {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "timestamp": "2026-02-25T01:15:42.296385"
+    },
+    {
+        "appid": 291480,
+        "name": "Warface: Clutch",
+        "timestamp": "2026-02-25T01:15:42.296387"
+    },
+    {
+        "appid": 901583,
+        "name": "Grand Theft Auto IV: Complete Edition",
+        "timestamp": "2026-02-25T01:15:42.296389"
+    },
+    {
+        "appid": 899770,
+        "name": "Last Epoch",
+        "timestamp": "2026-02-25T01:15:42.296390"
+    },
+    {
+        "appid": 340,
+        "name": "Half-Life 2: Lost Coast",
+        "timestamp": "2026-02-25T01:15:42.296392"
+    },
+    {
+        "appid": 1091500,
+        "name": "Cyberpunk 2077",
+        "timestamp": "2026-02-25T01:15:42.296394"
+    },
+    {
+        "appid": 381210,
+        "name": "Dead by Daylight",
+        "timestamp": "2026-02-25T01:15:42.296396"
+    },
+    {
+        "appid": 990080,
+        "name": "Hogwarts Legacy",
+        "timestamp": "2026-02-25T01:15:42.296398"
+    },
+    {
+        "appid": 438100,
+        "name": "VRChat",
+        "timestamp": "2026-02-25T01:15:42.296400"
+    },
+    {
+        "appid": 292030,
+        "name": "The Witcher 3: Wild Hunt",
+        "timestamp": "2026-02-25T01:15:42.296402"
+    },
+    {
+        "appid": 945360,
+        "name": "Among Us",
+        "timestamp": "2026-02-25T01:15:42.296404"
+    },
+    {
+        "appid": 1097150,
+        "name": "Fall Guys: Ultimate Knockout",
+        "timestamp": "2026-02-25T01:15:42.296406"
+    },
+    {
+        "appid": 49520,
+        "name": "Borderlands 2",
+        "timestamp": "2026-02-25T01:15:42.296408"
+    },
+    {
+        "appid": 227300,
+        "name": "Euro Truck Simulator 2",
+        "timestamp": "2026-02-25T01:15:42.296410"
+    },
+    {
+        "appid": 892970,
+        "name": "Valheim",
+        "timestamp": "2026-02-25T01:15:42.296412"
+    },
+    {
+        "appid": 739630,
+        "name": "Phasmophobia",
+        "timestamp": "2026-02-25T01:15:42.296414"
+    },
+    {
+        "appid": 444090,
+        "name": "Paladins",
+        "timestamp": "2026-02-25T01:15:42.296416"
+    },
+    {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "timestamp": "2026-02-25T01:15:42.296418"
+    },
+    {
+        "appid": 320,
+        "name": "Half-Life 2: Deathmatch",
+        "timestamp": "2026-02-25T01:15:42.296420"
+    },
+    {
+        "appid": 70,
+        "name": "Half-Life",
+        "timestamp": "2026-02-25T01:15:42.296422"
+    },
+    {
+        "appid": 582010,
+        "name": "Monster Hunter: World",
+        "timestamp": "2026-02-25T01:15:42.296424"
+    },
+    {
+        "appid": 227940,
+        "name": "Heroes & Generals",
+        "timestamp": "2026-02-25T01:15:42.296426"
+    },
+    {
+        "appid": 252950,
+        "name": "Rocket League",
+        "timestamp": "2026-02-25T01:15:42.296428"
+    },
+    {
+        "appid": 108600,
+        "name": "Project Zomboid",
+        "timestamp": "2026-02-25T01:15:42.296430"
+    },
+    {
+        "appid": 1966720,
+        "name": "Lethal Company",
+        "timestamp": "2026-02-25T01:15:42.296432"
+    },
+    {
+        "appid": 1174180,
+        "name": "Red Dead Redemption 2",
+        "timestamp": "2026-02-25T01:15:42.296434"
+    },
+    {
+        "appid": 1517290,
+        "name": "Battlefield 2042",
+        "timestamp": "2026-02-25T01:15:42.296436"
+    },
+    {
+        "appid": 1240440,
+        "name": "Halo Infinite",
+        "timestamp": "2026-02-25T01:15:42.296438"
+    },
+    {
+        "appid": 648800,
+        "name": "Raft",
+        "timestamp": "2026-02-25T01:15:42.296440"
+    },
+    {
+        "appid": 386360,
+        "name": "SMITE",
+        "timestamp": "2026-02-25T01:15:42.296442"
+    },
+    {
+        "appid": 444200,
+        "name": "World of Tanks Blitz",
+        "timestamp": "2026-02-25T01:15:42.296444"
+    },
+    {
+        "appid": 10,
+        "name": "Counter-Strike",
+        "timestamp": "2026-02-25T01:15:42.296446"
+    },
+    {
+        "appid": 240,
+        "name": "Counter-Strike: Source",
+        "timestamp": "2026-02-25T01:15:42.296448"
+    },
+    {
+        "appid": 3164500,
+        "name": "Schedule I",
+        "timestamp": "2026-02-25T01:15:42.296450"
+    },
+    {
+        "appid": 755790,
+        "name": "Ring of Elysium",
+        "timestamp": "2026-02-25T01:15:42.296452"
+    },
+    {
+        "appid": 400,
+        "name": "Portal",
+        "timestamp": "2026-02-25T01:15:42.296454"
+    },
+    {
+        "appid": 1222670,
+        "name": "The Sims 4",
+        "timestamp": "2026-02-25T01:15:42.296456"
+    },
+    {
+        "appid": 550650,
+        "name": "Black Squad",
+        "timestamp": "2026-02-25T01:15:42.296458"
+    },
+    {
+        "appid": 322330,
+        "name": "Don't Starve Together",
+        "timestamp": "2026-02-25T01:15:42.296460"
+    },
+    {
+        "appid": 239140,
+        "name": "Dying Light",
+        "timestamp": "2026-02-25T01:15:42.296462"
+    },
+    {
+        "appid": 477160,
+        "name": "Human Fall Flat",
+        "timestamp": "2026-02-25T01:15:42.296464"
+    },
+    {
+        "appid": 251570,
+        "name": "7 Days to Die",
+        "timestamp": "2026-02-25T01:15:42.296465"
+    },
+    {
+        "appid": 100,
+        "name": "Counter-Strike: Condition Zero",
+        "timestamp": "2026-02-25T01:15:42.296467"
+    },
+    {
+        "appid": 1665460,
+        "name": "eFootball",
+        "timestamp": "2026-02-25T01:15:42.296469"
+    },
+    {
+        "appid": 417910,
+        "name": "Street Warriors Online",
+        "timestamp": "2026-02-25T01:15:42.296471"
+    },
+    {
+        "appid": 433850,
+        "name": "Z1 Battle Royale",
+        "timestamp": "2026-02-25T01:15:42.296474"
+    },
+    {
+        "appid": 594650,
+        "name": "Hunt: Showdown 1896",
+        "timestamp": "2026-02-25T01:15:42.296476"
+    },
+    {
+        "appid": 814380,
+        "name": "Sekiro: Shadows Die Twice - GOTY Edition",
+        "timestamp": "2026-02-25T01:15:42.296478"
+    },
+    {
+        "appid": 1116170,
+        "name": "CyberCorp",
+        "timestamp": "2026-02-25T01:15:42.296480"
+    },
+    {
+        "appid": 220,
+        "name": "Half-Life 2",
+        "timestamp": "2026-02-25T01:15:42.296482"
+    },
+    {
+        "appid": 107410,
+        "name": "Arma 3",
+        "timestamp": "2026-02-25T01:15:42.296484"
+    },
+    {
+        "appid": 1326470,
+        "name": "Sons Of The Forest",
+        "timestamp": "2026-02-25T01:15:42.296486"
+    },
+    {
+        "appid": 219990,
+        "name": "Grim Dawn",
+        "timestamp": "2026-02-25T01:15:42.296488"
+    },
+    {
+        "appid": 255710,
+        "name": "Cities: Skylines",
+        "timestamp": "2026-02-25T01:15:42.296490"
+    },
+    {
+        "appid": 261550,
+        "name": "Mount & Blade II: Bannerlord",
+        "timestamp": "2026-02-25T01:15:42.296492"
+    },
+    {
+        "appid": 8930,
+        "name": "Sid Meier's Civilization V",
+        "timestamp": "2026-02-25T01:15:42.296494"
+    },
+    {
+        "appid": 304050,
+        "name": "Trove",
+        "timestamp": "2026-02-25T01:15:42.296496"
+    },
+    {
+        "appid": 289070,
+        "name": "Sid Meier\u2019s Civilization VI",
+        "timestamp": "2026-02-25T01:15:42.296499"
+    },
+    {
+        "appid": 377160,
+        "name": "Fallout 4",
+        "timestamp": "2026-02-25T01:15:42.296501"
+    },
+    {
+        "appid": 532210,
+        "name": "Life is Strange 2",
+        "timestamp": "2026-02-25T01:15:42.296503"
+    },
+    {
+        "appid": 2186680,
+        "name": "Warhammer 40,000: Rogue Trader",
+        "timestamp": "2026-02-25T01:15:42.296505"
+    },
+    {
+        "appid": 1238810,
+        "name": "Battlefield V",
+        "timestamp": "2026-02-25T01:15:42.296507"
+    },
+    {
+        "appid": 3241660,
+        "name": "R.E.P.O.",
+        "timestamp": "2026-02-25T01:15:42.296509"
+    },
+    {
+        "appid": 221100,
+        "name": "DayZ",
+        "timestamp": "2026-02-25T01:15:42.296512"
+    },
+    {
+        "appid": 526870,
+        "name": "Satisfactory",
+        "timestamp": "2026-02-25T01:15:42.296514"
+    },
+    {
+        "appid": 1089350,
+        "name": "NBA 2K20",
+        "timestamp": "2026-02-25T01:15:42.296516"
+    },
+    {
+        "appid": 632360,
+        "name": "Risk of Rain 2",
+        "timestamp": "2026-02-25T01:15:42.296518"
+    },
+    {
+        "appid": 1811260,
+        "name": "EA SPORTS FIFA 23",
+        "timestamp": "2026-02-25T01:15:42.296519"
+    },
+    {
+        "appid": 204360,
+        "name": "Castle Crashers",
+        "timestamp": "2026-02-25T01:15:42.296521"
+    },
+    {
+        "appid": 218230,
+        "name": "PlanetSide 2",
+        "timestamp": "2026-02-25T01:15:42.296523"
+    },
+    {
+        "appid": 72850,
+        "name": "The Elder Scrolls V: Skyrim",
+        "timestamp": "2026-02-25T01:15:42.296525"
+    },
+    {
+        "appid": 394360,
+        "name": "Hearts of Iron IV",
+        "timestamp": "2026-02-25T01:15:42.296527"
+    },
+    {
+        "appid": 489830,
+        "name": "The Elder Scrolls V: Skyrim Special Edition",
+        "timestamp": "2026-02-25T01:15:42.296529"
+    },
+    {
+        "appid": 322170,
+        "name": "Geometry Dash",
+        "timestamp": "2026-02-25T01:15:42.296531"
+    },
+    {
+        "appid": 1446780,
+        "name": "MONSTER HUNTER RISE",
+        "timestamp": "2026-02-25T01:15:42.296533"
+    },
+    {
+        "appid": 224260,
+        "name": "No More Room in Hell",
+        "timestamp": "2026-02-25T01:15:42.296535"
+    },
+    {
+        "appid": 203160,
+        "name": "Tomb Raider Game of the Year",
+        "timestamp": "2026-02-25T01:15:42.296537"
+    },
+    {
+        "appid": 275850,
+        "name": "No Man's Sky",
+        "timestamp": "2026-02-25T01:15:42.296539"
+    },
+    {
+        "appid": 367520,
+        "name": "Hollow Knight",
+        "timestamp": "2026-02-25T01:15:42.296541"
+    },
+    {
+        "appid": 301520,
+        "name": "Robocraft",
+        "timestamp": "2026-02-25T01:15:42.296543"
+    },
+    {
+        "appid": 767560,
+        "name": "War Robots",
+        "timestamp": "2026-02-25T01:15:42.296545"
+    },
+    {
+        "appid": 2050650,
+        "name": "Resident Evil 4",
+        "timestamp": "2026-02-25T01:15:42.296547"
+    },
+    {
+        "appid": 466240,
+        "name": "Deceit",
+        "timestamp": "2026-02-25T01:15:42.296549"
+    },
+    {
+        "appid": 284160,
+        "name": "BeamNG.drive",
+        "timestamp": "2026-02-25T01:15:42.296551"
+    },
+    {
+        "appid": 278360,
+        "name": "A Story About My Uncle",
+        "timestamp": "2026-02-25T01:15:42.296553"
+    },
+    {
+        "appid": 264710,
+        "name": "Subnautica",
+        "timestamp": "2026-02-25T01:15:42.296555"
+    },
+    {
+        "appid": 80,
+        "name": "Counter-Strike: Condition Zero",
+        "timestamp": "2026-02-25T01:15:42.296557"
+    },
+    {
+        "appid": 370910,
+        "name": "Kathy Rain",
+        "timestamp": "2026-02-25T01:15:42.296559"
+    },
+    {
+        "appid": 40,
+        "name": "Deathmatch Classic",
+        "timestamp": "2026-02-25T01:15:42.296561"
+    },
+    {
+        "appid": 275390,
+        "name": "Guacamelee! Super Turbo Championship Edition",
+        "timestamp": "2026-02-25T01:15:42.296563"
+    },
+    {
+        "appid": 2881650,
+        "name": "Content Warning",
+        "timestamp": "2026-02-25T01:15:42.296564"
+    },
+    {
+        "appid": 311210,
+        "name": "Call of Duty: Black Ops III",
+        "timestamp": "2026-02-25T01:15:42.296566"
+    },
+    {
+        "appid": 333930,
+        "name": "Dirty Bomb",
+        "timestamp": "2026-02-25T01:15:42.296568"
+    },
+    {
+        "appid": 1172620,
+        "name": "Sea of Thieves: 2025 Edition",
+        "timestamp": "2026-02-25T01:15:42.296570"
+    },
+    {
+        "appid": 22380,
+        "name": "Fallout: New Vegas",
+        "timestamp": "2026-02-25T01:15:42.296572"
+    },
+    {
+        "appid": 250900,
+        "name": "The Binding of Isaac: Rebirth",
+        "timestamp": "2026-02-25T01:15:42.296574"
+    },
+    {
+        "appid": 700330,
+        "name": "SCP: Secret Laboratory",
+        "timestamp": "2026-02-25T01:15:42.296576"
+    },
+    {
+        "appid": 10180,
+        "name": "Call of Duty: Modern Warfare 2 (2009)",
+        "timestamp": "2026-02-25T01:15:42.296578"
+    },
+    {
+        "appid": 582660,
+        "name": "Black Desert",
+        "timestamp": "2026-02-25T01:15:42.296580"
+    },
+    {
+        "appid": 1229490,
+        "name": "ULTRAKILL",
+        "timestamp": "2026-02-25T01:15:42.296582"
+    },
+    {
+        "appid": 1046930,
+        "name": "Dota Underlords",
+        "timestamp": "2026-02-25T01:15:42.296584"
+    },
+    {
+        "appid": 1426210,
+        "name": "It Takes Two",
+        "timestamp": "2026-02-25T01:15:42.296586"
+    },
+    {
+        "appid": 2195250,
+        "name": "EA SPORTS FC 24",
+        "timestamp": "2026-02-25T01:15:42.296588"
+    },
+    {
+        "appid": 2183900,
+        "name": "Warhammer 40,000: Space Marine 2",
+        "timestamp": "2026-02-25T01:15:42.296590"
+    },
+    {
+        "appid": 883710,
+        "name": "Resident Evil 2",
+        "timestamp": "2026-02-25T01:15:42.296592"
+    },
+    {
+        "appid": 219640,
+        "name": "Chivalry: Medieval Warfare",
+        "timestamp": "2026-02-25T01:15:42.296593"
+    },
+    {
+        "appid": 306130,
+        "name": "The Elder Scrolls Online",
+        "timestamp": "2026-02-25T01:15:42.296595"
+    },
+    {
+        "appid": 244210,
+        "name": "Assetto Corsa",
+        "timestamp": "2026-02-25T01:15:42.296597"
+    },
+    {
+        "appid": 268500,
+        "name": "XCOM 2",
+        "timestamp": "2026-02-25T01:15:42.296599"
+    },
+    {
+        "appid": 1794680,
+        "name": "Vampire Survivors",
+        "timestamp": "2026-02-25T01:15:42.296601"
+    },
+    {
+        "appid": 1818750,
+        "name": "MultiVersus",
+        "timestamp": "2026-02-25T01:15:42.296603"
+    },
+    {
+        "appid": 242050,
+        "name": "Assassin\u2019s Creed IV Black Flag",
+        "timestamp": "2026-02-25T01:15:42.296605"
+    },
+    {
+        "appid": 30,
+        "name": "Day of Defeat",
+        "timestamp": "2026-02-25T01:15:42.296607"
+    },
+    {
+        "appid": 236850,
+        "name": "Europa Universalis IV",
+        "timestamp": "2026-02-25T01:15:42.296609"
+    },
+    {
+        "appid": 363970,
+        "name": "Clicker Heroes",
+        "timestamp": "2026-02-25T01:15:42.296612"
+    },
+    {
+        "appid": 253710,
+        "name": "theHunter Classic",
+        "timestamp": "2026-02-25T01:15:42.296614"
+    },
+    {
+        "appid": 379720,
+        "name": "DOOM",
+        "timestamp": "2026-02-25T01:15:42.296616"
+    },
+    {
+        "appid": 273350,
+        "name": "Evolve Stage 2",
+        "timestamp": "2026-02-25T01:15:42.296618"
+    },
+    {
+        "appid": 1782210,
+        "name": "Crab Game",
+        "timestamp": "2026-02-25T01:15:42.296620"
+    },
+    {
+        "appid": 844870,
+        "name": "KurtzPel",
+        "timestamp": "2026-02-25T01:15:42.296622"
+    },
+    {
+        "appid": 601150,
+        "name": "Devil May Cry 5",
+        "timestamp": "2026-02-25T01:15:42.296625"
+    },
+    {
+        "appid": 1286830,
+        "name": "STAR WARS: The Old Republic",
+        "timestamp": "2026-02-25T01:15:42.296628"
+    },
+    {
+        "appid": 365670,
+        "name": "Blender",
+        "timestamp": "2026-02-25T01:15:42.296630"
+    },
+    {
+        "appid": 319630,
+        "name": "Life is Strange - Episode 1",
+        "timestamp": "2026-02-25T01:15:42.296631"
+    },
+    {
+        "appid": 1293830,
+        "name": "Forza Horizon 4",
+        "timestamp": "2026-02-25T01:15:42.296633"
+    },
+    {
+        "appid": 1145360,
+        "name": "Hades",
+        "timestamp": "2026-02-25T01:15:42.296635"
+    },
+    {
+        "appid": 671860,
+        "name": "BattleBit Remastered",
+        "timestamp": "2026-02-25T01:15:42.296637"
+    },
+    {
+        "appid": 427520,
+        "name": "Factorio",
+        "timestamp": "2026-02-25T01:15:42.296639"
+    },
+    {
+        "appid": 221380,
+        "name": "Age of Empires II (Retired)",
+        "timestamp": "2026-02-25T01:15:42.296641"
+    },
+    {
+        "appid": 231430,
+        "name": "Company of Heroes 2",
+        "timestamp": "2026-02-25T01:15:42.296643"
+    },
+    {
+        "appid": 813820,
+        "name": "Realm Royale",
+        "timestamp": "2026-02-25T01:15:42.296645"
+    },
+    {
+        "appid": 594570,
+        "name": "Total War: WARHAMMER II",
+        "timestamp": "2026-02-25T01:15:42.296647"
+    },
+    {
+        "appid": 391540,
+        "name": "Undertale",
+        "timestamp": "2026-02-25T01:15:42.296648"
+    },
+    {
+        "appid": 976730,
+        "name": "Halo: The Master Chief Collection",
+        "timestamp": "2026-02-25T01:15:42.296650"
+    },
+    {
+        "appid": 646570,
+        "name": "Slay the Spire",
+        "timestamp": "2026-02-25T01:15:42.296652"
+    },
+    {
+        "appid": 588650,
+        "name": "Dead Cells",
+        "timestamp": "2026-02-25T01:15:42.296654"
+    },
+    {
+        "appid": 268910,
+        "name": "Cuphead",
+        "timestamp": "2026-02-25T01:15:42.296656"
+    },
+    {
+        "appid": 439700,
+        "name": "Z1 Battle Royale: Test Server",
+        "timestamp": "2026-02-25T01:15:42.296658"
+    },
+    {
+        "appid": 500,
+        "name": "Left 4 Dead",
+        "timestamp": "2026-02-25T01:15:42.296660"
+    },
+    {
+        "appid": 1118200,
+        "name": "People Playground",
+        "timestamp": "2026-02-25T01:15:42.296662"
+    },
+    {
+        "appid": 620,
+        "name": "Portal 2",
+        "timestamp": "2026-02-25T01:15:42.296664"
+    },
+    {
+        "appid": 1551360,
+        "name": "Forza Horizon 5",
+        "timestamp": "2026-02-25T01:15:42.296666"
+    },
+    {
+        "appid": 1049590,
+        "name": "Eternal Return",
+        "timestamp": "2026-02-25T01:15:42.296668"
+    },
+    {
+        "appid": 380,
+        "name": "Half-Life 2: Episode One",
+        "timestamp": "2026-02-25T01:15:42.296670"
+    },
+    {
+        "appid": 360,
+        "name": "Half-Life Deathmatch: Source",
+        "timestamp": "2026-02-25T01:15:42.296672"
+    },
+    {
+        "appid": 779340,
+        "name": "Total War: THREE KINGDOMS",
+        "timestamp": "2026-02-25T01:15:42.296674"
+    },
+    {
+        "appid": 233450,
+        "name": "Prison Architect",
+        "timestamp": "2026-02-25T01:15:42.296676"
+    },
+    {
+        "appid": 782330,
+        "name": "DOOM Eternal",
+        "timestamp": "2026-02-25T01:15:42.296678"
+    },
+    {
+        "appid": 223710,
+        "name": "Cry of Fear",
+        "timestamp": "2026-02-25T01:15:42.296680"
+    },
+    {
+        "appid": 677620,
+        "name": "Splitgate: Arena Warfare",
+        "timestamp": "2026-02-25T01:15:42.296682"
+    },
+    {
+        "appid": 513710,
+        "name": "SCUM",
+        "timestamp": "2026-02-25T01:15:42.296684"
+    },
+    {
+        "appid": 1677740,
+        "name": "Stumble Guys",
+        "timestamp": "2026-02-25T01:15:42.296686"
+    },
+    {
+        "appid": 109600,
+        "name": "Neverwinter",
+        "timestamp": "2026-02-25T01:15:42.296688"
+    },
+    {
+        "appid": 420,
+        "name": "Half-Life 2: Episode Two",
+        "timestamp": "2026-02-25T01:15:42.296689"
+    },
+    {
+        "appid": 397900,
+        "name": "Business Tour - Board Game with Online Multiplayer",
+        "timestamp": "2026-02-25T01:15:42.296691"
+    },
+    {
+        "appid": 698780,
+        "name": "Doki Doki Literature Club!",
+        "timestamp": "2026-02-25T01:15:42.296693"
+    },
+    {
+        "appid": 435150,
+        "name": "Divinity: Original Sin 2 - Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.296695"
+    },
+    {
+        "appid": 1100600,
+        "name": "Football Manager 2020",
+        "timestamp": "2026-02-25T01:15:42.296697"
+    },
+    {
+        "appid": 1604030,
+        "name": "V Rising",
+        "timestamp": "2026-02-25T01:15:42.296699"
+    },
+    {
+        "appid": 534380,
+        "name": "Dying Light 2 Stay Human: Reloaded Edition",
+        "timestamp": "2026-02-25T01:15:42.296701"
+    },
+    {
+        "appid": 766570,
+        "name": "Russian Fishing 4",
+        "timestamp": "2026-02-25T01:15:42.296703"
+    },
+    {
+        "appid": 548430,
+        "name": "Deep Rock Galactic",
+        "timestamp": "2026-02-25T01:15:42.296704"
+    },
+    {
+        "appid": 294100,
+        "name": "RimWorld",
+        "timestamp": "2026-02-25T01:15:42.296706"
+    },
+    {
+        "appid": 273110,
+        "name": "Counter-Strike Nexon: Studio",
+        "timestamp": "2026-02-25T01:15:42.296708"
+    },
+    {
+        "appid": 868270,
+        "name": "The Cycle: Frontier",
+        "timestamp": "2026-02-25T01:15:42.296710"
+    },
+    {
+        "appid": 863550,
+        "name": "HITMAN 2",
+        "timestamp": "2026-02-25T01:15:42.296712"
+    },
+    {
+        "appid": 1237970,
+        "name": "Titanfall 2",
+        "timestamp": "2026-02-25T01:15:42.296715"
+    },
+    {
+        "appid": 555570,
+        "name": "Infestation: The New Z",
+        "timestamp": "2026-02-25T01:15:42.296717"
+    },
+    {
+        "appid": 10190,
+        "name": "Call of Duty: Modern Warfare 2 (2009)",
+        "timestamp": "2026-02-25T01:15:42.296719"
+    },
+    {
+        "appid": 424840,
+        "name": "Little Nightmares",
+        "timestamp": "2026-02-25T01:15:42.296721"
+    },
+    {
+        "appid": 2669320,
+        "name": "EA SPORTS FC 25",
+        "timestamp": "2026-02-25T01:15:42.296723"
+    },
+    {
+        "appid": 518790,
+        "name": "theHunter: Call of the Wild",
+        "timestamp": "2026-02-25T01:15:42.296725"
+    },
+    {
+        "appid": 365590,
+        "name": "Tom Clancy\u2019s The Division",
+        "timestamp": "2026-02-25T01:15:42.296727"
+    },
+    {
+        "appid": 223470,
+        "name": "POSTAL 2",
+        "timestamp": "2026-02-25T01:15:42.296729"
+    },
+    {
+        "appid": 241930,
+        "name": "Middle-earth: Shadow of Mordor",
+        "timestamp": "2026-02-25T01:15:42.296731"
+    },
+    {
+        "appid": 346900,
+        "name": "AdVenture Capitalist",
+        "timestamp": "2026-02-25T01:15:42.296733"
+    },
+    {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "timestamp": "2026-02-25T01:15:42.296735"
+    },
+    {
+        "appid": 440900,
+        "name": "Conan Exiles",
+        "timestamp": "2026-02-25T01:15:42.296737"
+    },
+    {
+        "appid": 374320,
+        "name": "DARK SOULS III",
+        "timestamp": "2026-02-25T01:15:42.296739"
+    },
+    {
+        "appid": 304390,
+        "name": "FOR HONOR",
+        "timestamp": "2026-02-25T01:15:42.296741"
+    },
+    {
+        "appid": 1868140,
+        "name": "DAVE THE DIVER",
+        "timestamp": "2026-02-25T01:15:42.296743"
+    },
+    {
+        "appid": 208090,
+        "name": "Loadout",
+        "timestamp": "2026-02-25T01:15:42.296745"
+    },
+    {
+        "appid": 48700,
+        "name": "Mount & Blade: Warband",
+        "timestamp": "2026-02-25T01:15:42.296747"
+    },
+    {
+        "appid": 2630,
+        "name": "Call of Duty 2",
+        "timestamp": "2026-02-25T01:15:42.296749"
+    },
+    {
+        "appid": 12210,
+        "name": "Grand Theft Auto IV: The Complete Edition",
+        "timestamp": "2026-02-25T01:15:42.296751"
+    },
+    {
+        "appid": 1144200,
+        "name": "Ready or Not",
+        "timestamp": "2026-02-25T01:15:42.296753"
+    },
+    {
+        "appid": 113400,
+        "name": "APB Reloaded",
+        "timestamp": "2026-02-25T01:15:42.296755"
+    },
+    {
+        "appid": 1332010,
+        "name": "Stray",
+        "timestamp": "2026-02-25T01:15:42.296757"
+    },
+    {
+        "appid": 206420,
+        "name": "Saints Row IV: Re-Elected",
+        "timestamp": "2026-02-25T01:15:42.296759"
+    },
+    {
+        "appid": 380600,
+        "name": "Fishing Planet",
+        "timestamp": "2026-02-25T01:15:42.296761"
+    },
+    {
+        "appid": 225540,
+        "name": "Just Cause 3",
+        "timestamp": "2026-02-25T01:15:42.296763"
+    },
+    {
+        "appid": 285800,
+        "name": "Braveland",
+        "timestamp": "2026-02-25T01:15:42.296765"
+    },
+    {
+        "appid": 286690,
+        "name": "Metro 2033 Redux",
+        "timestamp": "2026-02-25T01:15:42.296767"
+    },
+    {
+        "appid": 223750,
+        "name": "DCS World Steam Edition",
+        "timestamp": "2026-02-25T01:15:42.296768"
+    },
+    {
+        "appid": 1593500,
+        "name": "God of War",
+        "timestamp": "2026-02-25T01:15:42.296770"
+    },
+    {
+        "appid": 386180,
+        "name": "Crossout",
+        "timestamp": "2026-02-25T01:15:42.296772"
+    },
+    {
+        "appid": 1238840,
+        "name": "Battlefield 1",
+        "timestamp": "2026-02-25T01:15:42.296774"
+    },
+    {
+        "appid": 812140,
+        "name": "Assassin's Creed Odyssey",
+        "timestamp": "2026-02-25T01:15:42.296776"
+    },
+    {
+        "appid": 1721470,
+        "name": "Poppy Playtime",
+        "timestamp": "2026-02-25T01:15:42.296778"
+    },
+    {
+        "appid": 960090,
+        "name": "Bloons TD 6",
+        "timestamp": "2026-02-25T01:15:42.296780"
+    },
+    {
+        "appid": 55230,
+        "name": "Saints Row: The Third",
+        "timestamp": "2026-02-25T01:15:42.296782"
+    },
+    {
+        "appid": 262060,
+        "name": "Darkest Dungeon",
+        "timestamp": "2026-02-25T01:15:42.296784"
+    },
+    {
+        "appid": 761890,
+        "name": "Albion Online",
+        "timestamp": "2026-02-25T01:15:42.296786"
+    },
+    {
+        "appid": 2001120,
+        "name": "Split Fiction",
+        "timestamp": "2026-02-25T01:15:42.296788"
+    },
+    {
+        "appid": 281990,
+        "name": "Stellaris",
+        "timestamp": "2026-02-25T01:15:42.296790"
+    },
+    {
+        "appid": 252130,
+        "name": "Divide By Sheep",
+        "timestamp": "2026-02-25T01:15:42.296792"
+    },
+    {
+        "appid": 211820,
+        "name": "Starbound",
+        "timestamp": "2026-02-25T01:15:42.296794"
+    },
+    {
+        "appid": 8190,
+        "name": "Just Cause 2",
+        "timestamp": "2026-02-25T01:15:42.296795"
+    },
+    {
+        "appid": 6060,
+        "name": "STAR WARS Battlefront II (Classic, 2005)",
+        "timestamp": "2026-02-25T01:15:42.296798"
+    },
+    {
+        "appid": 508440,
+        "name": "Totally Accurate Battle Simulator",
+        "timestamp": "2026-02-25T01:15:42.296800"
+    },
+    {
+        "appid": 115300,
+        "name": "Call of Duty: Modern Warfare 3 (2011)",
+        "timestamp": "2026-02-25T01:15:42.296802"
+    },
+    {
+        "appid": 42910,
+        "name": "Magicka",
+        "timestamp": "2026-02-25T01:15:42.296804"
+    },
+    {
+        "appid": 39210,
+        "name": "FINAL FANTASY XIV Online",
+        "timestamp": "2026-02-25T01:15:42.296806"
+    },
+    {
+        "appid": 1222680,
+        "name": "Need for Speed Heat",
+        "timestamp": "2026-02-25T01:15:42.296808"
+    },
+    {
+        "appid": 351940,
+        "name": "The Descendant",
+        "timestamp": "2026-02-25T01:15:42.296810"
+    },
+    {
+        "appid": 1250,
+        "name": "Killing Floor",
+        "timestamp": "2026-02-25T01:15:42.296812"
+    },
+    {
+        "appid": 2623190,
+        "name": "The Elder Scrolls IV: Oblivion Remastered",
+        "timestamp": "2026-02-25T01:15:42.296814"
+    },
+    {
+        "appid": 323190,
+        "name": "Frostpunk",
+        "timestamp": "2026-02-25T01:15:42.296816"
+    },
+    {
+        "appid": 1716740,
+        "name": "Starfield",
+        "timestamp": "2026-02-25T01:15:42.296818"
+    },
+    {
+        "appid": 813780,
+        "name": "Age of Empires II: Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.296820"
+    },
+    {
+        "appid": 630,
+        "name": "Alien Swarm",
+        "timestamp": "2026-02-25T01:15:42.296822"
+    },
+    {
+        "appid": 57300,
+        "name": "Amnesia: The Dark Descent",
+        "timestamp": "2026-02-25T01:15:42.296824"
+    },
+    {
+        "appid": 395170,
+        "name": "DISTRAINT: Deluxe Edition",
+        "timestamp": "2026-02-25T01:15:42.296826"
+    },
+    {
+        "appid": 20920,
+        "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "timestamp": "2026-02-25T01:15:42.296827"
+    },
+    {
+        "appid": 212680,
+        "name": "FTL: Faster Than Light",
+        "timestamp": "2026-02-25T01:15:42.296829"
+    },
+    {
+        "appid": 504370,
+        "name": "Battlerite",
+        "timestamp": "2026-02-25T01:15:42.296831"
+    },
+    {
+        "appid": 286160,
+        "name": "Tabletop Simulator",
+        "timestamp": "2026-02-25T01:15:42.296833"
+    },
+    {
+        "appid": 311690,
+        "name": "Enter the Gungeon",
+        "timestamp": "2026-02-25T01:15:42.296835"
+    },
+    {
+        "appid": 355840,
+        "name": "Survarium",
+        "timestamp": "2026-02-25T01:15:42.296837"
+    },
+    {
+        "appid": 1145350,
+        "name": "Hades II",
+        "timestamp": "2026-02-25T01:15:42.296839"
+    },
+    {
+        "appid": 1366800,
+        "name": "Crosshair X",
+        "timestamp": "2026-02-25T01:15:42.296841"
+    },
+    {
+        "appid": 1196590,
+        "name": "Resident Evil Village",
+        "timestamp": "2026-02-25T01:15:42.296843"
+    },
+    {
+        "appid": 613100,
+        "name": "House Flipper",
+        "timestamp": "2026-02-25T01:15:42.296845"
+    },
+    {
+        "appid": 1172380,
+        "name": "STAR WARS Jedi: Fallen Order",
+        "timestamp": "2026-02-25T01:15:42.296846"
+    },
+    {
+        "appid": 202970,
+        "name": "Call of Duty: Black Ops II",
+        "timestamp": "2026-02-25T01:15:42.296848"
+    },
+    {
+        "appid": 304430,
+        "name": "INSIDE",
+        "timestamp": "2026-02-25T01:15:42.296850"
+    },
+    {
+        "appid": 3590,
+        "name": "Plants vs. Zombies GOTY Edition",
+        "timestamp": "2026-02-25T01:15:42.296852"
+    },
+    {
+        "appid": 1260320,
+        "name": "Party Animals",
+        "timestamp": "2026-02-25T01:15:42.296855"
+    },
+    {
+        "appid": 33930,
+        "name": "Arma 2: Operation Arrowhead",
+        "timestamp": "2026-02-25T01:15:42.296857"
+    },
+    {
+        "appid": 212500,
+        "name": "The Lord of the Rings Online",
+        "timestamp": "2026-02-25T01:15:42.296859"
+    },
+    {
+        "appid": 457140,
+        "name": "Oxygen Not Included",
+        "timestamp": "2026-02-25T01:15:42.296861"
+    },
+    {
+        "appid": 620980,
+        "name": "Beat Saber",
+        "timestamp": "2026-02-25T01:15:42.296863"
+    },
+    {
+        "appid": 1222140,
+        "name": "Detroit: Become Human",
+        "timestamp": "2026-02-25T01:15:42.296865"
+    },
+    {
+        "appid": 1817070,
+        "name": "Marvel\u2019s Spider-Man Remastered",
+        "timestamp": "2026-02-25T01:15:42.296867"
+    },
+    {
+        "appid": 205100,
+        "name": "Dishonored",
+        "timestamp": "2026-02-25T01:15:42.296869"
+    },
+    {
+        "appid": 24240,
+        "name": "PAYDAY The Heist",
+        "timestamp": "2026-02-25T01:15:42.296871"
+    },
+    {
+        "appid": 1506830,
+        "name": "FIFA 22",
+        "timestamp": "2026-02-25T01:15:42.296873"
+    },
+    {
+        "appid": 871720,
+        "name": "Ultimate Custom Night",
+        "timestamp": "2026-02-25T01:15:42.296875"
+    },
+    {
+        "appid": 962130,
+        "name": "Grounded",
+        "timestamp": "2026-02-25T01:15:42.296878"
+    },
+    {
+        "appid": 356190,
+        "name": "Middle-earth: Shadow of War",
+        "timestamp": "2026-02-25T01:15:42.296880"
+    },
+    {
+        "appid": 274190,
+        "name": "Broforce",
+        "timestamp": "2026-02-25T01:15:42.296882"
+    },
+    {
+        "appid": 234140,
+        "name": "Mad Max",
+        "timestamp": "2026-02-25T01:15:42.296884"
+    },
+    {
+        "appid": 8500,
+        "name": "EVE Online",
+        "timestamp": "2026-02-25T01:15:42.296885"
+    },
+    {
+        "appid": 552520,
+        "name": "Far Cry 5",
+        "timestamp": "2026-02-25T01:15:42.296887"
+    },
+    {
+        "appid": 7670,
+        "name": "BioShock",
+        "timestamp": "2026-02-25T01:15:42.296889"
+    },
+    {
+        "appid": 760160,
+        "name": "Vampire: The Masquerade - Bloodhunt",
+        "timestamp": "2026-02-25T01:15:42.296891"
+    },
+    {
+        "appid": 1203620,
+        "name": "Enshrouded",
+        "timestamp": "2026-02-25T01:15:42.296893"
+    },
+    {
+        "appid": 270880,
+        "name": "American Truck Simulator",
+        "timestamp": "2026-02-25T01:15:42.296895"
+    },
+    {
+        "appid": 601510,
+        "name": "Yu-Gi-Oh! Duel Links",
+        "timestamp": "2026-02-25T01:15:42.296897"
+    },
+    {
+        "appid": 397540,
+        "name": "Borderlands 3",
+        "timestamp": "2026-02-25T01:15:42.296899"
+    },
+    {
+        "appid": 12120,
+        "name": "Grand Theft Auto: San Andreas",
+        "timestamp": "2026-02-25T01:15:42.296901"
+    },
+    {
+        "appid": 236870,
+        "name": "HITMAN",
+        "timestamp": "2026-02-25T01:15:42.296902"
+    },
+    {
+        "appid": 674940,
+        "name": "Stick Fight: The Game",
+        "timestamp": "2026-02-25T01:15:42.296904"
+    },
+    {
+        "appid": 884660,
+        "name": "CRSED: F.O.A.D.",
+        "timestamp": "2026-02-25T01:15:42.296906"
+    },
+    {
+        "appid": 701160,
+        "name": "Kingdom Two Crowns",
+        "timestamp": "2026-02-25T01:15:42.296908"
+    },
+    {
+        "appid": 1832640,
+        "name": "Mirror 2: Project X",
+        "timestamp": "2026-02-25T01:15:42.296910"
+    },
+    {
+        "appid": 208650,
+        "name": "Batman: Arkham Knight",
+        "timestamp": "2026-02-25T01:15:42.296912"
+    },
+    {
+        "appid": 48000,
+        "name": "LIMBO",
+        "timestamp": "2026-02-25T01:15:42.296914"
+    },
+    {
+        "appid": 2379780,
+        "name": "Balatro",
+        "timestamp": "2026-02-25T01:15:42.296916"
+    },
+    {
+        "appid": 298110,
+        "name": "Far Cry 4",
+        "timestamp": "2026-02-25T01:15:42.296918"
+    },
+    {
+        "appid": 42710,
+        "name": "Call of Duty: Black Ops",
+        "timestamp": "2026-02-25T01:15:42.296920"
+    },
+    {
+        "appid": 200710,
+        "name": "Torchlight II",
+        "timestamp": "2026-02-25T01:15:42.296922"
+    },
+    {
+        "appid": 203770,
+        "name": "Crusader Kings II",
+        "timestamp": "2026-02-25T01:15:42.296925"
+    },
+    {
+        "appid": 1903340,
+        "name": "Clair Obscur: Expedition 33",
+        "timestamp": "2026-02-25T01:15:42.296927"
+    },
+    {
+        "appid": 244850,
+        "name": "Space Engineers",
+        "timestamp": "2026-02-25T01:15:42.296928"
+    },
+    {
+        "appid": 1366540,
+        "name": "Dyson Sphere Program",
+        "timestamp": "2026-02-25T01:15:42.296930"
+    },
+    {
+        "appid": 2709570,
+        "name": "Supermarket Together",
+        "timestamp": "2026-02-25T01:15:42.296932"
+    },
+    {
+        "appid": 201270,
+        "name": "Total War: SHOGUN 2",
+        "timestamp": "2026-02-25T01:15:42.296935"
+    },
+    {
+        "appid": 389730,
+        "name": "TEKKEN 7",
+        "timestamp": "2026-02-25T01:15:42.296937"
+    },
+    {
+        "appid": 10090,
+        "name": "Call of Duty: World at War",
+        "timestamp": "2026-02-25T01:15:42.296939"
+    },
+    {
+        "appid": 1259420,
+        "name": "Days Gone",
+        "timestamp": "2026-02-25T01:15:42.296941"
+    },
+    {
+        "appid": 261640,
+        "name": "Borderlands: The Pre-Sequel",
+        "timestamp": "2026-02-25T01:15:42.296942"
+    },
+    {
+        "appid": 220200,
+        "name": "Kerbal Space Program",
+        "timestamp": "2026-02-25T01:15:42.296944"
+    },
+    {
+        "appid": 1142710,
+        "name": "Total War: WARHAMMER III",
+        "timestamp": "2026-02-25T01:15:42.296946"
+    },
+    {
+        "appid": 265630,
+        "name": "Fistful of Frags",
+        "timestamp": "2026-02-25T01:15:42.296948"
+    },
+    {
+        "appid": 219150,
+        "name": "Hotline Miami",
+        "timestamp": "2026-02-25T01:15:42.296950"
+    },
+    {
+        "appid": 418460,
+        "name": "Rising Storm 2: Vietnam",
+        "timestamp": "2026-02-25T01:15:42.296952"
+    },
+    {
+        "appid": 312990,
+        "name": "The Expendabros",
+        "timestamp": "2026-02-25T01:15:42.296954"
+    },
+    {
+        "appid": 211500,
+        "name": "RaceRoom Racing Experience",
+        "timestamp": "2026-02-25T01:15:42.296956"
+    },
+    {
+        "appid": 506540,
+        "name": "Last Man Standing",
+        "timestamp": "2026-02-25T01:15:42.296958"
+    },
+    {
+        "appid": 20900,
+        "name": "The Witcher: Enhanced Edition Director's Cut",
+        "timestamp": "2026-02-25T01:15:42.296959"
+    },
+    {
+        "appid": 552500,
+        "name": "Warhammer: Vermintide 2",
+        "timestamp": "2026-02-25T01:15:42.296961"
+    },
+    {
+        "appid": 1057090,
+        "name": "Ori and the Will of the Wisps",
+        "timestamp": "2026-02-25T01:15:42.296963"
+    },
+    {
+        "appid": 359320,
+        "name": "Elite Dangerous",
+        "timestamp": "2026-02-25T01:15:42.296965"
+    },
+    {
+        "appid": 214950,
+        "name": "Total War: ROME II - Emperor Edition",
+        "timestamp": "2026-02-25T01:15:42.296967"
+    },
+    {
+        "appid": 9480,
+        "name": "Saints Row 2",
+        "timestamp": "2026-02-25T01:15:42.296969"
+    },
+    {
+        "appid": 245170,
+        "name": "Skullgirls 2nd Encore",
+        "timestamp": "2026-02-25T01:15:42.296971"
+    },
+    {
+        "appid": 207610,
+        "name": "The Walking Dead",
+        "timestamp": "2026-02-25T01:15:42.296973"
+    },
+    {
+        "appid": 35450,
+        "name": "Red Orchestra 2: Heroes of Stalingrad with Rising Storm",
+        "timestamp": "2026-02-25T01:15:42.296975"
+    },
+    {
+        "appid": 285900,
+        "name": "Gang Beasts",
+        "timestamp": "2026-02-25T01:15:42.296976"
+    },
+    {
+        "appid": 232090,
+        "name": "Killing Floor 2",
+        "timestamp": "2026-02-25T01:15:42.296978"
+    },
+    {
+        "appid": 42680,
+        "name": "Call of Duty: Modern Warfare 3 (2011)",
+        "timestamp": "2026-02-25T01:15:42.296980"
+    },
+    {
+        "appid": 918570,
+        "name": "Century: Age of Ashes",
+        "timestamp": "2026-02-25T01:15:42.296982"
+    },
+    {
+        "appid": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "timestamp": "2026-02-25T01:15:42.296984"
+    },
+    {
+        "appid": 447040,
+        "name": "Watch_Dogs 2",
+        "timestamp": "2026-02-25T01:15:42.296987"
+    },
+    {
+        "appid": 200510,
+        "name": "XCOM: Enemy Unknown",
+        "timestamp": "2026-02-25T01:15:42.296989"
+    },
+    {
+        "appid": 361420,
+        "name": "ASTRONEER",
+        "timestamp": "2026-02-25T01:15:42.296991"
+    },
+    {
+        "appid": 33900,
+        "name": "Arma 2",
+        "timestamp": "2026-02-25T01:15:42.296993"
+    },
+    {
+        "appid": 209080,
+        "name": "Guns of Icarus Online",
+        "timestamp": "2026-02-25T01:15:42.296994"
+    },
+    {
+        "appid": 307780,
+        "name": "Mortal Kombat X",
+        "timestamp": "2026-02-25T01:15:42.296996"
+    },
+    {
+        "appid": 335240,
+        "name": "Transformice",
+        "timestamp": "2026-02-25T01:15:42.296998"
+    },
+    {
+        "appid": 403640,
+        "name": "Dishonored 2",
+        "timestamp": "2026-02-25T01:15:42.297000"
+    },
+    {
+        "appid": 99900,
+        "name": "Spiral Knights",
+        "timestamp": "2026-02-25T01:15:42.297003"
+    },
+    {
+        "appid": 1289310,
+        "name": "Helltaker",
+        "timestamp": "2026-02-25T01:15:42.297005"
+    },
+    {
+        "appid": 287700,
+        "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+        "timestamp": "2026-02-25T01:15:42.297007"
+    },
+    {
+        "appid": 460930,
+        "name": "Tom Clancy's Ghost Recon Wildlands",
+        "timestamp": "2026-02-25T01:15:42.297009"
+    },
+    {
+        "appid": 219740,
+        "name": "Don't Starve",
+        "timestamp": "2026-02-25T01:15:42.297010"
+    },
+    {
+        "appid": 96000,
+        "name": "The Tiny Bang Story",
+        "timestamp": "2026-02-25T01:15:42.297012"
+    },
+    {
+        "appid": 35720,
+        "name": "Trine 2: Complete Story",
+        "timestamp": "2026-02-25T01:15:42.297015"
+    },
+    {
+        "appid": 387990,
+        "name": "Scrap Mechanic",
+        "timestamp": "2026-02-25T01:15:42.297017"
+    },
+    {
+        "appid": 880940,
+        "name": "Pummel Party",
+        "timestamp": "2026-02-25T01:15:42.297019"
+    },
+    {
+        "appid": 409710,
+        "name": "BioShock Remastered",
+        "timestamp": "2026-02-25T01:15:42.297021"
+    },
+    {
+        "appid": 686810,
+        "name": "Hell Let Loose",
+        "timestamp": "2026-02-25T01:15:42.297023"
+    },
+    {
+        "appid": 418370,
+        "name": "Resident Evil 7 Biohazard",
+        "timestamp": "2026-02-25T01:15:42.297025"
+    },
+    {
+        "appid": 50130,
+        "name": "Mafia II (Classic)",
+        "timestamp": "2026-02-25T01:15:42.297027"
+    },
+    {
+        "appid": 1454400,
+        "name": "Cookie Clicker",
+        "timestamp": "2026-02-25T01:15:42.297029"
+    },
+    {
+        "appid": 379430,
+        "name": "Kingdom Come: Deliverance",
+        "timestamp": "2026-02-25T01:15:42.297031"
+    },
+    {
+        "appid": 274170,
+        "name": "Hotline Miami 2: Wrong Number",
+        "timestamp": "2026-02-25T01:15:42.297033"
+    },
+    {
+        "appid": 232770,
+        "name": "POSTAL",
+        "timestamp": "2026-02-25T01:15:42.297034"
+    },
+    {
+        "appid": 1363080,
+        "name": "Manor Lords",
+        "timestamp": "2026-02-25T01:15:42.297036"
+    },
+    {
+        "appid": 585690,
+        "name": "Minimalism",
+        "timestamp": "2026-02-25T01:15:42.297038"
+    },
+    {
+        "appid": 289650,
+        "name": "Assassin's Creed Unity",
+        "timestamp": "2026-02-25T01:15:42.297040"
+    },
+    {
+        "appid": 17410,
+        "name": "Mirror's Edge",
+        "timestamp": "2026-02-25T01:15:42.297042"
+    },
+    {
+        "appid": 4560,
+        "name": "Company of Heroes - Legacy Edition",
+        "timestamp": "2026-02-25T01:15:42.297044"
+    },
+    {
+        "appid": 2479810,
+        "name": "Gray Zone Warfare",
+        "timestamp": "2026-02-25T01:15:42.297046"
+    },
+    {
+        "appid": 233130,
+        "name": "Shadow Warrior",
+        "timestamp": "2026-02-25T01:15:42.297049"
+    },
+    {
+        "appid": 1056960,
+        "name": "Wolfenstein: Youngblood",
+        "timestamp": "2026-02-25T01:15:42.297051"
+    },
+    {
+        "appid": 976310,
+        "name": "Mortal Kombat\u00a011",
+        "timestamp": "2026-02-25T01:15:42.297052"
+    },
+    {
+        "appid": 202990,
+        "name": "Call of Duty: Black Ops II",
+        "timestamp": "2026-02-25T01:15:42.297054"
+    },
+    {
+        "appid": 355180,
+        "name": "Codename CURE",
+        "timestamp": "2026-02-25T01:15:42.297056"
+    },
+    {
+        "appid": 678950,
+        "name": "DRAGON BALL FighterZ",
+        "timestamp": "2026-02-25T01:15:42.297058"
+    },
+    {
+        "appid": 1151340,
+        "name": "Fallout 76",
+        "timestamp": "2026-02-25T01:15:42.297060"
+    },
+    {
+        "appid": 299360,
+        "name": "Block N Load",
+        "timestamp": "2026-02-25T01:15:42.297062"
+    },
+    {
+        "appid": 213670,
+        "name": "South Park: The Stick of Truth",
+        "timestamp": "2026-02-25T01:15:42.297064"
+    },
+    {
+        "appid": 262410,
+        "name": "World of Guns: Gun Disassembly",
+        "timestamp": "2026-02-25T01:15:42.297066"
+    },
+    {
+        "appid": 224600,
+        "name": "Defiance",
+        "timestamp": "2026-02-25T01:15:42.297068"
+    },
+    {
+        "appid": 368230,
+        "name": "Kingdom: Classic",
+        "timestamp": "2026-02-25T01:15:42.297070"
+    },
+    {
+        "appid": 3097560,
+        "name": "Liar's Bar",
+        "timestamp": "2026-02-25T01:15:42.297072"
+    },
+    {
+        "appid": 335300,
+        "name": "DARK SOULS II: Scholar of the First Sin",
+        "timestamp": "2026-02-25T01:15:42.297073"
+    },
+    {
+        "appid": 233860,
+        "name": "Kenshi",
+        "timestamp": "2026-02-25T01:15:42.297075"
+    },
+    {
+        "appid": 391720,
+        "name": "Layers of Fear (2016)",
+        "timestamp": "2026-02-25T01:15:42.297077"
+    },
+    {
+        "appid": 240720,
+        "name": "Getting Over It with Bennett Foddy",
+        "timestamp": "2026-02-25T01:15:42.297079"
+    },
+    {
+        "appid": 838350,
+        "name": "The Scroll Of Taiwu",
+        "timestamp": "2026-02-25T01:15:42.297081"
+    },
+    {
+        "appid": 238320,
+        "name": "Outlast",
+        "timestamp": "2026-02-25T01:15:42.297083"
+    },
+    {
+        "appid": 282070,
+        "name": "This War of Mine",
+        "timestamp": "2026-02-25T01:15:42.297085"
+    },
+    {
+        "appid": 412020,
+        "name": "Metro Exodus",
+        "timestamp": "2026-02-25T01:15:42.297087"
+    },
+    {
+        "appid": 1158310,
+        "name": "Crusader Kings III",
+        "timestamp": "2026-02-25T01:15:42.297089"
+    },
+    {
+        "appid": 2567870,
+        "name": "Chained Together",
+        "timestamp": "2026-02-25T01:15:42.297090"
+    },
+    {
+        "appid": 265930,
+        "name": "Goat Simulator",
+        "timestamp": "2026-02-25T01:15:42.297092"
+    },
+    {
+        "appid": 214490,
+        "name": "Alien: Isolation",
+        "timestamp": "2026-02-25T01:15:42.297094"
+    },
+    {
+        "appid": 362890,
+        "name": "Black Mesa",
+        "timestamp": "2026-02-25T01:15:42.297096"
+    },
+    {
+        "appid": 438740,
+        "name": "Friday the 13th: The Game",
+        "timestamp": "2026-02-25T01:15:42.297098"
+    },
+    {
+        "appid": 617290,
+        "name": "Remnant: From the Ashes",
+        "timestamp": "2026-02-25T01:15:42.297100"
+    },
+    {
+        "appid": 588430,
+        "name": "Fallout Shelter",
+        "timestamp": "2026-02-25T01:15:42.297102"
+    },
+    {
+        "appid": 1943950,
+        "name": "Escape the Backrooms",
+        "timestamp": "2026-02-25T01:15:42.297104"
+    },
+    {
+        "appid": 203140,
+        "name": "Hitman: Absolution",
+        "timestamp": "2026-02-25T01:15:42.297106"
+    },
+    {
+        "appid": 12100,
+        "name": "Grand Theft Auto III",
+        "timestamp": "2026-02-25T01:15:42.297108"
+    },
+    {
+        "appid": 905370,
+        "name": "Conqueror's Blade",
+        "timestamp": "2026-02-25T01:15:42.297110"
+    },
+    {
+        "appid": 1056640,
+        "name": "Phantasy Star Online 2",
+        "timestamp": "2026-02-25T01:15:42.297112"
+    },
+    {
+        "appid": 1942280,
+        "name": "Brotato",
+        "timestamp": "2026-02-25T01:15:42.297117"
+    },
+    {
+        "appid": 238460,
+        "name": "BattleBlock Theater",
+        "timestamp": "2026-02-25T01:15:42.297119"
+    },
+    {
+        "appid": 38400,
+        "name": "Fallout: A Post Nuclear Role Playing Game",
+        "timestamp": "2026-02-25T01:15:42.297121"
+    },
+    {
+        "appid": 881020,
+        "name": "Granblue Fantasy: Relink",
+        "timestamp": "2026-02-25T01:15:42.297123"
+    },
+    {
+        "appid": 65800,
+        "name": "Dungeon Defenders",
+        "timestamp": "2026-02-25T01:15:42.297125"
+    },
+    {
+        "appid": 204880,
+        "name": "Sins of a Solar Empire: Rebellion",
+        "timestamp": "2026-02-25T01:15:42.297127"
+    },
+    {
+        "appid": 235460,
+        "name": "METAL GEAR RISING: REVENGEANCE",
+        "timestamp": "2026-02-25T01:15:42.297130"
+    },
+    {
+        "appid": 581320,
+        "name": "Insurgency: Sandstorm",
+        "timestamp": "2026-02-25T01:15:42.297132"
+    },
+    {
+        "appid": 34330,
+        "name": "Total War: SHOGUN 2",
+        "timestamp": "2026-02-25T01:15:42.297134"
+    },
+    {
+        "appid": 387290,
+        "name": "Ori and the Blind Forest: Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.297136"
+    },
+    {
+        "appid": 728880,
+        "name": "Overcooked! 2",
+        "timestamp": "2026-02-25T01:15:42.297138"
+    },
+    {
+        "appid": 391220,
+        "name": "Rise of the Tomb Raider",
+        "timestamp": "2026-02-25T01:15:42.297140"
+    },
+    {
+        "appid": 8870,
+        "name": "BioShock Infinite",
+        "timestamp": "2026-02-25T01:15:42.297142"
+    },
+    {
+        "appid": 372000,
+        "name": "Tree of Savior (English Ver.)",
+        "timestamp": "2026-02-25T01:15:42.297144"
+    },
+    {
+        "appid": 239030,
+        "name": "Papers, Please",
+        "timestamp": "2026-02-25T01:15:42.297146"
+    },
+    {
+        "appid": 629760,
+        "name": "MORDHAU",
+        "timestamp": "2026-02-25T01:15:42.297148"
+    },
+    {
+        "appid": 646910,
+        "name": "The Crew 2",
+        "timestamp": "2026-02-25T01:15:42.297149"
+    },
+    {
+        "appid": 367500,
+        "name": "Dragon's Dogma: Dark Arisen",
+        "timestamp": "2026-02-25T01:15:42.297151"
+    },
+    {
+        "appid": 13520,
+        "name": "Far Cry",
+        "timestamp": "2026-02-25T01:15:42.297153"
+    },
+    {
+        "appid": 967050,
+        "name": "Pacify",
+        "timestamp": "2026-02-25T01:15:42.297155"
+    },
+    {
+        "appid": 2399830,
+        "name": "ARK: Survival Ascended",
+        "timestamp": "2026-02-25T01:15:42.297157"
+    },
+    {
+        "appid": 648350,
+        "name": "Jurassic World Evolution",
+        "timestamp": "2026-02-25T01:15:42.297159"
+    },
+    {
+        "appid": 471710,
+        "name": "Rec Room",
+        "timestamp": "2026-02-25T01:15:42.297161"
+    },
+    {
+        "appid": 1372880,
+        "name": "The Day Before",
+        "timestamp": "2026-02-25T01:15:42.297163"
+    },
+    {
+        "appid": 524220,
+        "name": "NieR:Automata",
+        "timestamp": "2026-02-25T01:15:42.297165"
+    },
+    {
+        "appid": 305620,
+        "name": "The Long Dark",
+        "timestamp": "2026-02-25T01:15:42.297167"
+    },
+    {
+        "appid": 475150,
+        "name": "Titan Quest Anniversary Edition",
+        "timestamp": "2026-02-25T01:15:42.297168"
+    },
+    {
+        "appid": 47870,
+        "name": "Need For Speed: Hot Pursuit",
+        "timestamp": "2026-02-25T01:15:42.297170"
+    },
+    {
+        "appid": 629520,
+        "name": "Soundpad",
+        "timestamp": "2026-02-25T01:15:42.297172"
+    },
+    {
+        "appid": 282440,
+        "name": "Quake Live",
+        "timestamp": "2026-02-25T01:15:42.297174"
+    },
+    {
+        "appid": 436150,
+        "name": "Governor of Poker 3",
+        "timestamp": "2026-02-25T01:15:42.297177"
+    },
+    {
+        "appid": 1304930,
+        "name": "The Outlast Trials",
+        "timestamp": "2026-02-25T01:15:42.297179"
+    },
+    {
+        "appid": 550900,
+        "name": "Metin2",
+        "timestamp": "2026-02-25T01:15:42.297181"
+    },
+    {
+        "appid": 33230,
+        "name": "Assassin's Creed 2",
+        "timestamp": "2026-02-25T01:15:42.297183"
+    },
+    {
+        "appid": 427730,
+        "name": "Who's Your Daddy?!",
+        "timestamp": "2026-02-25T01:15:42.297185"
+    },
+    {
+        "appid": 221040,
+        "name": "Resident Evil 6",
+        "timestamp": "2026-02-25T01:15:42.297187"
+    },
+    {
+        "appid": 1274570,
+        "name": "DEVOUR",
+        "timestamp": "2026-02-25T01:15:42.297189"
+    },
+    {
+        "appid": 1222700,
+        "name": "A Way Out",
+        "timestamp": "2026-02-25T01:15:42.297191"
+    },
+    {
+        "appid": 1468810,
+        "name": "\u9b3c\u8c37\u516b\u8352 Tale of Immortal",
+        "timestamp": "2026-02-25T01:15:42.297193"
+    },
+    {
+        "appid": 287390,
+        "name": "Metro: Last Light Redux",
+        "timestamp": "2026-02-25T01:15:42.297195"
+    },
+    {
+        "appid": 570940,
+        "name": "DARK SOULS: REMASTERED",
+        "timestamp": "2026-02-25T01:15:42.297196"
+    },
+    {
+        "appid": 1272080,
+        "name": "PAYDAY 3",
+        "timestamp": "2026-02-25T01:15:42.297199"
+    },
+    {
+        "appid": 316010,
+        "name": "Magic Duels",
+        "timestamp": "2026-02-25T01:15:42.297201"
+    },
+    {
+        "appid": 105450,
+        "name": "Age of Empires III (2007)",
+        "timestamp": "2026-02-25T01:15:42.297203"
+    },
+    {
+        "appid": 1167630,
+        "name": "Teardown",
+        "timestamp": "2026-02-25T01:15:42.297205"
+    },
+    {
+        "appid": 11020,
+        "name": "TrackMania Nations Forever",
+        "timestamp": "2026-02-25T01:15:42.297207"
+    },
+    {
+        "appid": 12200,
+        "name": "Bully: Scholarship Edition",
+        "timestamp": "2026-02-25T01:15:42.297209"
+    },
+    {
+        "appid": 881100,
+        "name": "Noita",
+        "timestamp": "2026-02-25T01:15:42.297210"
+    },
+    {
+        "appid": 1313140,
+        "name": "Cult of the Lamb",
+        "timestamp": "2026-02-25T01:15:42.297212"
+    },
+    {
+        "appid": 261570,
+        "name": "Ori and the Blind Forest",
+        "timestamp": "2026-02-25T01:15:42.297214"
+    },
+    {
+        "appid": 1361210,
+        "name": "Warhammer 40,000: Darktide",
+        "timestamp": "2026-02-25T01:15:42.297216"
+    },
+    {
+        "appid": 221910,
+        "name": "The Stanley Parable",
+        "timestamp": "2026-02-25T01:15:42.297219"
+    },
+    {
+        "appid": 238090,
+        "name": "Sniper Elite 3",
+        "timestamp": "2026-02-25T01:15:42.297221"
+    },
+    {
+        "appid": 242720,
+        "name": "GunZ 2: The Second Duel",
+        "timestamp": "2026-02-25T01:15:42.297223"
+    },
+    {
+        "appid": 1250410,
+        "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+        "timestamp": "2026-02-25T01:15:42.297225"
+    },
+    {
+        "appid": 644930,
+        "name": "They Are Billions",
+        "timestamp": "2026-02-25T01:15:42.297227"
+    },
+    {
+        "appid": 641990,
+        "name": "The Escapists 2",
+        "timestamp": "2026-02-25T01:15:42.297229"
+    },
+    {
+        "appid": 1254120,
+        "name": "Bless Unleashed",
+        "timestamp": "2026-02-25T01:15:42.297231"
+    },
+    {
+        "appid": 222880,
+        "name": "Insurgency",
+        "timestamp": "2026-02-25T01:15:42.297233"
+    },
+    {
+        "appid": 1569040,
+        "name": "Football Manager 2022",
+        "timestamp": "2026-02-25T01:15:42.297235"
+    },
+    {
+        "appid": 201790,
+        "name": "Orcs Must Die! 2",
+        "timestamp": "2026-02-25T01:15:42.297237"
+    },
+    {
+        "appid": 203290,
+        "name": "America's Army: Proving Grounds",
+        "timestamp": "2026-02-25T01:15:42.297239"
+    },
+    {
+        "appid": 2670630,
+        "name": "Supermarket Simulator",
+        "timestamp": "2026-02-25T01:15:42.297241"
+    },
+    {
+        "appid": 286570,
+        "name": "F1 2015",
+        "timestamp": "2026-02-25T01:15:42.297243"
+    },
+    {
+        "appid": 787860,
+        "name": "Farming Simulator 19",
+        "timestamp": "2026-02-25T01:15:42.297245"
+    },
+    {
+        "appid": 466560,
+        "name": "Northgard: Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.297247"
+    },
+    {
+        "appid": 207140,
+        "name": "SpeedRunners",
+        "timestamp": "2026-02-25T01:15:42.297249"
+    },
+    {
+        "appid": 1092790,
+        "name": "Inscryption",
+        "timestamp": "2026-02-25T01:15:42.297251"
+    },
+    {
+        "appid": 431240,
+        "name": "Golf With Your Friends",
+        "timestamp": "2026-02-25T01:15:42.297253"
+    },
+    {
+        "appid": 248570,
+        "name": "Toribash",
+        "timestamp": "2026-02-25T01:15:42.297255"
+    },
+    {
+        "appid": 107100,
+        "name": "Bastion",
+        "timestamp": "2026-02-25T01:15:42.297257"
+    },
+    {
+        "appid": 209000,
+        "name": "Batman: Arkham Origins",
+        "timestamp": "2026-02-25T01:15:42.297259"
+    },
+    {
+        "appid": 24960,
+        "name": "Battlefield: Bad Company 2",
+        "timestamp": "2026-02-25T01:15:42.297261"
+    },
+    {
+        "appid": 848450,
+        "name": "Subnautica: Below Zero",
+        "timestamp": "2026-02-25T01:15:42.297263"
+    },
+    {
+        "appid": 286940,
+        "name": "S.K.I.L.L. - Special Force 2 (Shooter)",
+        "timestamp": "2026-02-25T01:15:42.297265"
+    },
+    {
+        "appid": 740130,
+        "name": "Tales of ARISE",
+        "timestamp": "2026-02-25T01:15:42.297267"
+    },
+    {
+        "appid": 17390,
+        "name": "SPORE",
+        "timestamp": "2026-02-25T01:15:42.297269"
+    },
+    {
+        "appid": 530700,
+        "name": "Argo",
+        "timestamp": "2026-02-25T01:15:42.297271"
+    },
+    {
+        "appid": 2622380,
+        "name": "ELDEN RING NIGHTREIGN",
+        "timestamp": "2026-02-25T01:15:42.297273"
+    },
+    {
+        "appid": 220240,
+        "name": "Far Cry 3",
+        "timestamp": "2026-02-25T01:15:42.297274"
+    },
+    {
+        "appid": 1217060,
+        "name": "Gunfire Reborn",
+        "timestamp": "2026-02-25T01:15:42.297276"
+    },
+    {
+        "appid": 1248130,
+        "name": "Farming Simulator 22",
+        "timestamp": "2026-02-25T01:15:42.297278"
+    },
+    {
+        "appid": 437900,
+        "name": "Party Jousting",
+        "timestamp": "2026-02-25T01:15:42.297280"
+    },
+    {
+        "appid": 635260,
+        "name": "CarX Drift Racing Online",
+        "timestamp": "2026-02-25T01:15:42.297282"
+    },
+    {
+        "appid": 259080,
+        "name": "Just Cause 2: Multiplayer Mod",
+        "timestamp": "2026-02-25T01:15:42.297284"
+    },
+    {
+        "appid": 414340,
+        "name": "Hellblade: Senua's Sacrifice",
+        "timestamp": "2026-02-25T01:15:42.297286"
+    },
+    {
+        "appid": 42700,
+        "name": "Call of Duty: Black Ops",
+        "timestamp": "2026-02-25T01:15:42.297288"
+    },
+    {
+        "appid": 108710,
+        "name": "Alan Wake",
+        "timestamp": "2026-02-25T01:15:42.297290"
+    },
+    {
+        "appid": 55100,
+        "name": "Homefront",
+        "timestamp": "2026-02-25T01:15:42.297292"
+    },
+    {
+        "appid": 1520470,
+        "name": "\u5c01\u7075\u6863\u6848",
+        "timestamp": "2026-02-25T01:15:42.297294"
+    },
+    {
+        "appid": 644560,
+        "name": "Mirror",
+        "timestamp": "2026-02-25T01:15:42.297296"
+    },
+    {
+        "appid": 1263850,
+        "name": "Football Manager 2021",
+        "timestamp": "2026-02-25T01:15:42.297298"
+    },
+    {
+        "appid": 407530,
+        "name": "ARK: Survival Of The Fittest",
+        "timestamp": "2026-02-25T01:15:42.297300"
+    },
+    {
+        "appid": 774171,
+        "name": "Muse Dash",
+        "timestamp": "2026-02-25T01:15:42.297302"
+    },
+    {
+        "appid": 279720,
+        "name": "The I of the Dragon",
+        "timestamp": "2026-02-25T01:15:42.297304"
+    },
+    {
+        "appid": 201810,
+        "name": "Wolfenstein: The New Order",
+        "timestamp": "2026-02-25T01:15:42.297306"
+    },
+    {
+        "appid": 319510,
+        "name": "Five Nights at Freddy's",
+        "timestamp": "2026-02-25T01:15:42.297308"
+    },
+    {
+        "appid": 1888160,
+        "name": "ARMORED CORE VI FIRES OF RUBICON",
+        "timestamp": "2026-02-25T01:15:42.297310"
+    },
+    {
+        "appid": 674020,
+        "name": "World War 3",
+        "timestamp": "2026-02-25T01:15:42.297312"
+    },
+    {
+        "appid": 310950,
+        "name": "Street Fighter V",
+        "timestamp": "2026-02-25T01:15:42.297314"
+    },
+    {
+        "appid": 952060,
+        "name": "Resident Evil 3",
+        "timestamp": "2026-02-25T01:15:42.297316"
+    },
+    {
+        "appid": 1466860,
+        "name": "Age of Empires IV: Anniversary Edition",
+        "timestamp": "2026-02-25T01:15:42.297318"
+    },
+    {
+        "appid": 949230,
+        "name": "Cities: Skylines II",
+        "timestamp": "2026-02-25T01:15:42.297320"
+    },
+    {
+        "appid": 388410,
+        "name": "Darksiders II Deathinitive Edition",
+        "timestamp": "2026-02-25T01:15:42.297322"
+    },
+    {
+        "appid": 1904540,
+        "name": "Football Manager 2023",
+        "timestamp": "2026-02-25T01:15:42.297324"
+    },
+    {
+        "appid": 544810,
+        "name": "KARDS - The WWII Card Game",
+        "timestamp": "2026-02-25T01:15:42.297326"
+    },
+    {
+        "appid": 611500,
+        "name": "Quake Champions",
+        "timestamp": "2026-02-25T01:15:42.297328"
+    },
+    {
+        "appid": 50,
+        "name": "Half-Life: Opposing Force",
+        "timestamp": "2026-02-25T01:15:42.297330"
+    },
+    {
+        "appid": 1408720,
+        "name": "Krunker",
+        "timestamp": "2026-02-25T01:15:42.297332"
+    },
+    {
+        "appid": 310560,
+        "name": "DiRT Rally",
+        "timestamp": "2026-02-25T01:15:42.297334"
+    },
+    {
+        "appid": 1845910,
+        "name": "Dragon Age: The Veilguard",
+        "timestamp": "2026-02-25T01:15:42.297336"
+    },
+    {
+        "appid": 254700,
+        "name": "Resident Evil 4 (2005)",
+        "timestamp": "2026-02-25T01:15:42.297338"
+    },
+    {
+        "appid": 1029690,
+        "name": "Sniper Elite 5",
+        "timestamp": "2026-02-25T01:15:42.297340"
+    },
+    {
+        "appid": 12220,
+        "name": "Grand Theft Auto: Episodes from Liberty City",
+        "timestamp": "2026-02-25T01:15:42.297341"
+    },
+    {
+        "appid": 308040,
+        "name": "Back to Bed",
+        "timestamp": "2026-02-25T01:15:42.297343"
+    },
+    {
+        "appid": 815370,
+        "name": "Green Hell",
+        "timestamp": "2026-02-25T01:15:42.297345"
+    },
+    {
+        "appid": 470220,
+        "name": "UNO",
+        "timestamp": "2026-02-25T01:15:42.297347"
+    },
+    {
+        "appid": 302830,
+        "name": "BLOCKADE 3D",
+        "timestamp": "2026-02-25T01:15:42.297349"
+    },
+    {
+        "appid": 242920,
+        "name": "Banished",
+        "timestamp": "2026-02-25T01:15:42.297351"
+    },
+    {
+        "appid": 236110,
+        "name": "Dungeon Defenders II",
+        "timestamp": "2026-02-25T01:15:42.297353"
+    },
+    {
+        "appid": 383870,
+        "name": "Firewatch",
+        "timestamp": "2026-02-25T01:15:42.297356"
+    },
+    {
+        "appid": 1399780,
+        "name": "Spellbreak",
+        "timestamp": "2026-02-25T01:15:42.297358"
+    },
+    {
+        "appid": 1237950,
+        "name": "STAR WARS Battlefront II",
+        "timestamp": "2026-02-25T01:15:42.297359"
+    },
+    {
+        "appid": 312660,
+        "name": "Sniper Elite 4",
+        "timestamp": "2026-02-25T01:15:42.297361"
+    },
+    {
+        "appid": 502500,
+        "name": "ACE COMBAT 7: SKIES UNKNOWN",
+        "timestamp": "2026-02-25T01:15:42.297363"
+    },
+    {
+        "appid": 632470,
+        "name": "Disco Elysium - The Final Cut",
+        "timestamp": "2026-02-25T01:15:42.297366"
+    },
+    {
+        "appid": 200260,
+        "name": "Batman: Arkham City - Game of the Year Edition",
+        "timestamp": "2026-02-25T01:15:42.297368"
+    },
+    {
+        "appid": 393380,
+        "name": "Squad",
+        "timestamp": "2026-02-25T01:15:42.297370"
+    },
+    {
+        "appid": 40800,
+        "name": "Super Meat Boy",
+        "timestamp": "2026-02-25T01:15:42.297371"
+    },
+    {
+        "appid": 303390,
+        "name": "Dead Bits",
+        "timestamp": "2026-02-25T01:15:42.297373"
+    },
+    {
+        "appid": 280,
+        "name": "Half-Life: Source",
+        "timestamp": "2026-02-25T01:15:42.297375"
+    },
+    {
+        "appid": 783770,
+        "name": "Ironsight",
+        "timestamp": "2026-02-25T01:15:42.297377"
+    },
+    {
+        "appid": 212070,
+        "name": "Star Conflict",
+        "timestamp": "2026-02-25T01:15:42.297379"
+    },
+    {
+        "appid": 110800,
+        "name": "L.A. Noire",
+        "timestamp": "2026-02-25T01:15:42.297381"
+    },
+    {
+        "appid": 50300,
+        "name": "Spec Ops: The Line",
+        "timestamp": "2026-02-25T01:15:42.297384"
+    },
+    {
+        "appid": 41070,
+        "name": "Serious Sam 3: BFE",
+        "timestamp": "2026-02-25T01:15:42.297386"
+    },
+    {
+        "appid": 1284210,
+        "name": "Guild Wars 2",
+        "timestamp": "2026-02-25T01:15:42.297388"
+    },
+    {
+        "appid": 35700,
+        "name": "Trine Enchanted Edition",
+        "timestamp": "2026-02-25T01:15:42.297390"
+    },
+    {
+        "appid": 485510,
+        "name": "Nioh: Complete Edition",
+        "timestamp": "2026-02-25T01:15:42.297392"
+    },
+    {
+        "appid": 210770,
+        "name": "Sanctum 2",
+        "timestamp": "2026-02-25T01:15:42.297394"
+    },
+    {
+        "appid": 282140,
+        "name": "SOMA",
+        "timestamp": "2026-02-25T01:15:42.297396"
+    },
+    {
+        "appid": 495420,
+        "name": "State of Decay 2: Juggernaut Edition",
+        "timestamp": "2026-02-25T01:15:42.297398"
+    },
+    {
+        "appid": 323580,
+        "name": "Jotun: Valhalla Edition",
+        "timestamp": "2026-02-25T01:15:42.297400"
+    },
+    {
+        "appid": 225260,
+        "name": "Brutal Legend",
+        "timestamp": "2026-02-25T01:15:42.297401"
+    },
+    {
+        "appid": 2835570,
+        "name": "Buckshot Roulette",
+        "timestamp": "2026-02-25T01:15:42.297403"
+    },
+    {
+        "appid": 464920,
+        "name": "Surviving Mars",
+        "timestamp": "2026-02-25T01:15:42.297405"
+    },
+    {
+        "appid": 493340,
+        "name": "Planet Coaster",
+        "timestamp": "2026-02-25T01:15:42.297407"
+    },
+    {
+        "appid": 9900,
+        "name": "Star Trek Online",
+        "timestamp": "2026-02-25T01:15:42.297409"
+    },
+    {
+        "appid": 7940,
+        "name": "Call of Duty 4: Modern Warfare (2007)",
+        "timestamp": "2026-02-25T01:15:42.297411"
+    },
+    {
+        "appid": 343710,
+        "name": "Kholat",
+        "timestamp": "2026-02-25T01:15:42.297413"
+    },
+    {
+        "appid": 504230,
+        "name": "Celeste",
+        "timestamp": "2026-02-25T01:15:42.297415"
+    },
+    {
+        "appid": 394510,
+        "name": "HELLDIVERS Dive Harder Edition",
+        "timestamp": "2026-02-25T01:15:42.297417"
+    },
+    {
+        "appid": 265590,
+        "name": "The Red Solstice",
+        "timestamp": "2026-02-25T01:15:42.297419"
+    },
+    {
+        "appid": 1128810,
+        "name": "RISK: Global Domination",
+        "timestamp": "2026-02-25T01:15:42.297421"
+    },
+    {
+        "appid": 325610,
+        "name": "Total War: ATTILA",
+        "timestamp": "2026-02-25T01:15:42.297423"
+    },
+    {
+        "appid": 1643320,
+        "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "timestamp": "2026-02-25T01:15:42.297425"
+    },
+    {
+        "appid": 204450,
+        "name": "Call of Juarez: Gunslinger",
+        "timestamp": "2026-02-25T01:15:42.297427"
+    },
+    {
+        "appid": 63380,
+        "name": "Sniper Elite V2",
+        "timestamp": "2026-02-25T01:15:42.297429"
+    },
+    {
+        "appid": 268420,
+        "name": "Aura Kingdom",
+        "timestamp": "2026-02-25T01:15:42.297431"
+    },
+    {
+        "appid": 482730,
+        "name": "Football Manager 2017",
+        "timestamp": "2026-02-25T01:15:42.297433"
+    },
+    {
+        "appid": 360970,
+        "name": "Heaven Forest NIGHTS",
+        "timestamp": "2026-02-25T01:15:42.297435"
+    },
+    {
+        "appid": 22370,
+        "name": "Fallout 3: Game of the Year Edition",
+        "timestamp": "2026-02-25T01:15:42.297437"
+    },
+    {
+        "appid": 349040,
+        "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+        "timestamp": "2026-02-25T01:15:42.297439"
+    },
+    {
+        "appid": 204100,
+        "name": "Max Payne 3",
+        "timestamp": "2026-02-25T01:15:42.297441"
+    },
+    {
+        "appid": 823130,
+        "name": "Totally Accurate Battlegrounds",
+        "timestamp": "2026-02-25T01:15:42.297443"
+    },
+    {
+        "appid": 1184370,
+        "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+        "timestamp": "2026-02-25T01:15:42.297445"
+    },
+    {
+        "appid": 640820,
+        "name": "Pathfinder: Kingmaker \u2014 Enhanced Plus Edition",
+        "timestamp": "2026-02-25T01:15:42.297446"
+    },
+    {
+        "appid": 47890,
+        "name": "The Sims 3",
+        "timestamp": "2026-02-25T01:15:42.297448"
+    },
+    {
+        "appid": 637650,
+        "name": "FINAL FANTASY XV WINDOWS EDITION",
+        "timestamp": "2026-02-25T01:15:42.297450"
+    },
+    {
+        "appid": 703080,
+        "name": "Planet Zoo",
+        "timestamp": "2026-02-25T01:15:42.297452"
+    },
+    {
+        "appid": 460950,
+        "name": "Katana ZERO",
+        "timestamp": "2026-02-25T01:15:42.297454"
+    },
+    {
+        "appid": 35140,
+        "name": "Batman: Arkham Asylum Game of the Year Edition",
+        "timestamp": "2026-02-25T01:15:42.297456"
+    },
+    {
+        "appid": 50620,
+        "name": "Darksiders",
+        "timestamp": "2026-02-25T01:15:42.297458"
+    },
+    {
+        "appid": 337000,
+        "name": "Deus Ex: Mankind Divided",
+        "timestamp": "2026-02-25T01:15:42.297460"
+    },
+    {
+        "appid": 433340,
+        "name": "Slime Rancher",
+        "timestamp": "2026-02-25T01:15:42.297462"
+    },
+    {
+        "appid": 238010,
+        "name": "Deus Ex: Human Revolution - Director's Cut",
+        "timestamp": "2026-02-25T01:15:42.297464"
+    },
+    {
+        "appid": 527230,
+        "name": "For The King",
+        "timestamp": "2026-02-25T01:15:42.297466"
+    },
+    {
+        "appid": 39120,
+        "name": "RIFT",
+        "timestamp": "2026-02-25T01:15:42.297467"
+    },
+    {
+        "appid": 307690,
+        "name": "Sleeping Dogs: Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.297469"
+    },
+    {
+        "appid": 2054970,
+        "name": "Dragon's Dogma 2",
+        "timestamp": "2026-02-25T01:15:42.297471"
+    },
+    {
+        "appid": 266840,
+        "name": "Age of Mythology: Extended Edition",
+        "timestamp": "2026-02-25T01:15:42.297473"
+    },
+    {
+        "appid": 645630,
+        "name": "Car Mechanic Simulator 2018",
+        "timestamp": "2026-02-25T01:15:42.297475"
+    },
+    {
+        "appid": 1790600,
+        "name": "DRAGON BALL: Sparking! ZERO",
+        "timestamp": "2026-02-25T01:15:42.297477"
+    },
+    {
+        "appid": 300,
+        "name": "Day of Defeat: Source",
+        "timestamp": "2026-02-25T01:15:42.297479"
+    },
+    {
+        "appid": 368260,
+        "name": "Marvel's Midnight Suns",
+        "timestamp": "2026-02-25T01:15:42.297481"
+    },
+    {
+        "appid": 389570,
+        "name": "Mitos.is: The Game",
+        "timestamp": "2026-02-25T01:15:42.297483"
+    },
+    {
+        "appid": 736590,
+        "name": "Operation: Harsh Doorstop",
+        "timestamp": "2026-02-25T01:15:42.297485"
+    },
+    {
+        "appid": 1637320,
+        "name": "Dome Keeper",
+        "timestamp": "2026-02-25T01:15:42.297487"
+    },
+    {
+        "appid": 409720,
+        "name": "BioShock 2 Remastered",
+        "timestamp": "2026-02-25T01:15:42.297626"
+    },
+    {
+        "appid": 975370,
+        "name": "Dwarf Fortress",
+        "timestamp": "2026-02-25T01:15:42.297633"
+    },
+    {
+        "appid": 15620,
+        "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition",
+        "timestamp": "2026-02-25T01:15:42.297635"
+    },
+    {
+        "appid": 1371980,
+        "name": "No Rest for the Wicked",
+        "timestamp": "2026-02-25T01:15:42.297637"
+    },
+    {
+        "appid": 993090,
+        "name": "Lossless Scaling",
+        "timestamp": "2026-02-25T01:15:42.297641"
+    },
+    {
+        "appid": 476480,
+        "name": "Heaven Forest - VR MMO",
+        "timestamp": "2026-02-25T01:15:42.297643"
+    },
+    {
+        "appid": 65930,
+        "name": "The Bureau: XCOM Declassified",
+        "timestamp": "2026-02-25T01:15:42.297645"
+    },
+    {
+        "appid": 2215430,
+        "name": "Ghost of Tsushima DIRECTOR'S CUT",
+        "timestamp": "2026-02-25T01:15:42.297647"
+    },
+    {
+        "appid": 1277400,
+        "name": "Monster Hunter Stories 2: Wings of Ruin",
+        "timestamp": "2026-02-25T01:15:42.297649"
+    },
+    {
+        "appid": 3132990,
+        "name": "Black Myth: Wukong Benchmark Tool",
+        "timestamp": "2026-02-25T01:15:42.297651"
+    },
+    {
+        "appid": 606150,
+        "name": "Moonlighter",
+        "timestamp": "2026-02-25T01:15:42.297653"
+    },
+    {
+        "appid": 602960,
+        "name": "Barotrauma",
+        "timestamp": "2026-02-25T01:15:42.297655"
+    },
+    {
+        "appid": 342200,
+        "name": "MechWarrior Online Solaris 7",
+        "timestamp": "2026-02-25T01:15:42.297657"
+    },
+    {
+        "appid": 1824220,
+        "name": "Chivalry 2",
+        "timestamp": "2026-02-25T01:15:42.297659"
+    },
+    {
+        "appid": 55150,
+        "name": "Warhammer 40,000: Space Marine - Anniversary Edition",
+        "timestamp": "2026-02-25T01:15:42.297661"
+    },
+    {
+        "appid": 8980,
+        "name": "Borderlands Game of the Year",
+        "timestamp": "2026-02-25T01:15:42.297663"
+    },
+    {
+        "appid": 900883,
+        "name": "The Elder Scrolls IV: Oblivion Game of the Year Edition Deluxe (2009)",
+        "timestamp": "2026-02-25T01:15:42.297664"
+    },
+    {
+        "appid": 312530,
+        "name": "Duck Game",
+        "timestamp": "2026-02-25T01:15:42.297667"
+    },
+    {
+        "appid": 1139900,
+        "name": "Ghostrunner",
+        "timestamp": "2026-02-25T01:15:42.297668"
+    },
+    {
+        "appid": 1343400,
+        "name": "RuneScape ",
+        "timestamp": "2026-02-25T01:15:42.297670"
+    },
+    {
+        "appid": 738060,
+        "name": "Freddy Fazbear's Pizzeria Simulator",
+        "timestamp": "2026-02-25T01:15:42.297672"
+    },
+    {
+        "appid": 893520,
+        "name": "Creative Destruction",
+        "timestamp": "2026-02-25T01:15:42.297674"
+    },
+    {
+        "appid": 234650,
+        "name": "Shadowrun Returns",
+        "timestamp": "2026-02-25T01:15:42.297676"
+    },
+    {
+        "appid": 744900,
+        "name": "Dead Frontier 2",
+        "timestamp": "2026-02-25T01:15:42.297678"
+    },
+    {
+        "appid": 314160,
+        "name": "Microsoft Flight Simulator X: Steam Edition",
+        "timestamp": "2026-02-25T01:15:42.297680"
+    },
+    {
+        "appid": 1364780,
+        "name": "Street Fighter 6",
+        "timestamp": "2026-02-25T01:15:42.297682"
+    },
+    {
+        "appid": 9010,
+        "name": "Return to Castle Wolfenstein",
+        "timestamp": "2026-02-25T01:15:42.297684"
+    },
+    {
+        "appid": 554620,
+        "name": "Life is Strange: Before the Storm",
+        "timestamp": "2026-02-25T01:15:42.297685"
+    },
+    {
+        "appid": 368500,
+        "name": "Assassin's Creed Syndicate",
+        "timestamp": "2026-02-25T01:15:42.297687"
+    },
+    {
+        "appid": 17470,
+        "name": "Dead Space (2008)",
+        "timestamp": "2026-02-25T01:15:42.297689"
+    },
+    {
+        "appid": 204300,
+        "name": "Awesomenauts",
+        "timestamp": "2026-02-25T01:15:42.297691"
+    },
+    {
+        "appid": 630100,
+        "name": "SoulWorker - Anime Action MMO",
+        "timestamp": "2026-02-25T01:15:42.297693"
+    },
+    {
+        "appid": 750920,
+        "name": "Shadow of the Tomb Raider: Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.297695"
+    },
+    {
+        "appid": 436520,
+        "name": "Line of Sight",
+        "timestamp": "2026-02-25T01:15:42.297697"
+    },
+    {
+        "appid": 1659040,
+        "name": "HITMAN World of Assassination",
+        "timestamp": "2026-02-25T01:15:42.297699"
+    },
+    {
+        "appid": 788100,
+        "name": "Neon Abyss",
+        "timestamp": "2026-02-25T01:15:42.297701"
+    },
+    {
+        "appid": 858820,
+        "name": "Tribes of Midgard",
+        "timestamp": "2026-02-25T01:15:42.297703"
+    },
+    {
+        "appid": 680420,
+        "name": "OUTRIDERS",
+        "timestamp": "2026-02-25T01:15:42.297704"
+    },
+    {
+        "appid": 678960,
+        "name": "CODE VEIN",
+        "timestamp": "2026-02-25T01:15:42.297706"
+    },
+    {
+        "appid": 1611910,
+        "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+        "timestamp": "2026-02-25T01:15:42.297708"
+    },
+    {
+        "appid": 206440,
+        "name": "To the Moon",
+        "timestamp": "2026-02-25T01:15:42.297710"
+    },
+    {
+        "appid": 613010,
+        "name": "Secret in Story",
+        "timestamp": "2026-02-25T01:15:42.297712"
+    },
+    {
+        "appid": 424280,
+        "name": "Iron Snout",
+        "timestamp": "2026-02-25T01:15:42.297714"
+    },
+    {
+        "appid": 212160,
+        "name": "Vindictus",
+        "timestamp": "2026-02-25T01:15:42.297716"
+    },
+    {
+        "appid": 1030830,
+        "name": "Mafia II: Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.297718"
+    },
+    {
+        "appid": 365450,
+        "name": "Hacknet",
+        "timestamp": "2026-02-25T01:15:42.297720"
+    },
+    {
+        "appid": 302510,
+        "name": "Ryse: Son of Rome",
+        "timestamp": "2026-02-25T01:15:42.297721"
+    },
+    {
+        "appid": 22330,
+        "name": "The Elder Scrolls IV: Oblivion Game of the Year Edition (2009)",
+        "timestamp": "2026-02-25T01:15:42.297723"
+    },
+    {
+        "appid": 1687950,
+        "name": "Persona 5 Royal",
+        "timestamp": "2026-02-25T01:15:42.297725"
+    },
+    {
+        "appid": 113020,
+        "name": "Monaco: What's Yours Is Mine",
+        "timestamp": "2026-02-25T01:15:42.297727"
+    },
+    {
+        "appid": 238370,
+        "name": "Magicka 2",
+        "timestamp": "2026-02-25T01:15:42.297729"
+    },
+    {
+        "appid": 3070070,
+        "name": "TCG Card Shop Simulator",
+        "timestamp": "2026-02-25T01:15:42.297731"
+    },
+    {
+        "appid": 977950,
+        "name": "A Dance of Fire and Ice",
+        "timestamp": "2026-02-25T01:15:42.297733"
+    },
+    {
+        "appid": 6860,
+        "name": "Hitman: Blood Money",
+        "timestamp": "2026-02-25T01:15:42.297735"
+    },
+    {
+        "appid": 1057240,
+        "name": "Crucible Beta",
+        "timestamp": "2026-02-25T01:15:42.297737"
+    },
+    {
+        "appid": 511470,
+        "name": "Glass Masquerade",
+        "timestamp": "2026-02-25T01:15:42.297738"
+    },
+    {
+        "appid": 268050,
+        "name": "The Evil Within",
+        "timestamp": "2026-02-25T01:15:42.297740"
+    },
+    {
+        "appid": 389430,
+        "name": "Knight Online",
+        "timestamp": "2026-02-25T01:15:42.297742"
+    },
+    {
+        "appid": 289130,
+        "name": "ENDLESS Legend",
+        "timestamp": "2026-02-25T01:15:42.297744"
+    },
+    {
+        "appid": 488790,
+        "name": "South Park: The Fractured But Whole",
+        "timestamp": "2026-02-25T01:15:42.297746"
+    },
+    {
+        "appid": 493520,
+        "name": "GTFO",
+        "timestamp": "2026-02-25T01:15:42.297748"
+    },
+    {
+        "appid": 546560,
+        "name": "Half-Life: Alyx",
+        "timestamp": "2026-02-25T01:15:42.297750"
+    },
+    {
+        "appid": 439190,
+        "name": "Stories: The Path of Destinies",
+        "timestamp": "2026-02-25T01:15:42.297752"
+    },
+    {
+        "appid": 67370,
+        "name": "The Darkness II",
+        "timestamp": "2026-02-25T01:15:42.297754"
+    },
+    {
+        "appid": 845070,
+        "name": "The Awesome Adventures of Captain Spirit",
+        "timestamp": "2026-02-25T01:15:42.297756"
+    },
+    {
+        "appid": 453480,
+        "name": "Shadowverse CCG",
+        "timestamp": "2026-02-25T01:15:42.297758"
+    },
+    {
+        "appid": 633230,
+        "name": "NARUTO TO BORUTO: SHINOBI STRIKER",
+        "timestamp": "2026-02-25T01:15:42.297759"
+    },
+    {
+        "appid": 32370,
+        "name": "STAR WARS Knights of the Old Republic",
+        "timestamp": "2026-02-25T01:15:42.297761"
+    },
+    {
+        "appid": 476600,
+        "name": "Call of Duty: WWII",
+        "timestamp": "2026-02-25T01:15:42.297763"
+    },
+    {
+        "appid": 1404210,
+        "name": "Red Dead Online",
+        "timestamp": "2026-02-25T01:15:42.297765"
+    },
+    {
+        "appid": 1557740,
+        "name": "ROUNDS",
+        "timestamp": "2026-02-25T01:15:42.297767"
+    },
+    {
+        "appid": 1619450,
+        "name": "Heart of a Warrior",
+        "timestamp": "2026-02-25T01:15:42.297769"
+    },
+    {
+        "appid": 683320,
+        "name": "GRIS",
+        "timestamp": "2026-02-25T01:15:42.297771"
+    },
+    {
+        "appid": 2551020,
+        "name": "One-armed robber",
+        "timestamp": "2026-02-25T01:15:42.297773"
+    },
+    {
+        "appid": 1536610,
+        "name": "OpenTTD",
+        "timestamp": "2026-02-25T01:15:42.297775"
+    },
+    {
+        "appid": 386940,
+        "name": "Ultimate Chicken Horse",
+        "timestamp": "2026-02-25T01:15:42.297777"
+    },
+    {
+        "appid": 346010,
+        "name": "Besiege",
+        "timestamp": "2026-02-25T01:15:42.297779"
+    },
+    {
+        "appid": 924970,
+        "name": "Back 4 Blood",
+        "timestamp": "2026-02-25T01:15:42.297781"
+    },
+    {
+        "appid": 349700,
+        "name": "Romero's Aftermath",
+        "timestamp": "2026-02-25T01:15:42.297783"
+    },
+    {
+        "appid": 208140,
+        "name": "ENDLESS Space - Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.297785"
+    },
+    {
+        "appid": 206500,
+        "name": "AirMech Strike",
+        "timestamp": "2026-02-25T01:15:42.297786"
+    },
+    {
+        "appid": 57690,
+        "name": "Tropico 4",
+        "timestamp": "2026-02-25T01:15:42.297788"
+    },
+    {
+        "appid": 2322010,
+        "name": "God of War Ragnar\u00f6k",
+        "timestamp": "2026-02-25T01:15:42.297790"
+    },
+    {
+        "appid": 274940,
+        "name": "Depth",
+        "timestamp": "2026-02-25T01:15:42.297792"
+    },
+    {
+        "appid": 412220,
+        "name": "DDraceNetwork",
+        "timestamp": "2026-02-25T01:15:42.297795"
+    },
+    {
+        "appid": 1290000,
+        "name": "PowerWash Simulator",
+        "timestamp": "2026-02-25T01:15:42.297797"
+    },
+    {
+        "appid": 1286680,
+        "name": "Tiny Tina's Wonderlands",
+        "timestamp": "2026-02-25T01:15:42.297799"
+    },
+    {
+        "appid": 39500,
+        "name": "Gothic 3",
+        "timestamp": "2026-02-25T01:15:42.297801"
+    },
+    {
+        "appid": 872790,
+        "name": "Football Manager 2019",
+        "timestamp": "2026-02-25T01:15:42.297803"
+    },
+    {
+        "appid": 291650,
+        "name": "Pillars of Eternity",
+        "timestamp": "2026-02-25T01:15:42.297805"
+    },
+    {
+        "appid": 17330,
+        "name": "Crysis Warhead",
+        "timestamp": "2026-02-25T01:15:42.297807"
+    },
+    {
+        "appid": 1533390,
+        "name": "Gorilla Tag",
+        "timestamp": "2026-02-25T01:15:42.297809"
+    },
+    {
+        "appid": 606280,
+        "name": "Darksiders III",
+        "timestamp": "2026-02-25T01:15:42.297811"
+    },
+    {
+        "appid": 10500,
+        "name": "Total War: EMPIRE \u2013 Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.297812"
+    },
+    {
+        "appid": 1476970,
+        "name": "Legends of IdleOn - Idle MMO",
+        "timestamp": "2026-02-25T01:15:42.297814"
+    },
+    {
+        "appid": 1262580,
+        "name": "Need for Speed Payback",
+        "timestamp": "2026-02-25T01:15:42.297816"
+    },
+    {
+        "appid": 246620,
+        "name": "Plague Inc: Evolved",
+        "timestamp": "2026-02-25T01:15:42.297818"
+    },
+    {
+        "appid": 319830,
+        "name": "AX:EL - Air XenoDawn",
+        "timestamp": "2026-02-25T01:15:42.297820"
+    },
+    {
+        "appid": 324800,
+        "name": "Shadow Warrior 2",
+        "timestamp": "2026-02-25T01:15:42.297822"
+    },
+    {
+        "appid": 341800,
+        "name": "Keep Talking and Nobody Explodes",
+        "timestamp": "2026-02-25T01:15:42.297824"
+    },
+    {
+        "appid": 322500,
+        "name": "SUPERHOT",
+        "timestamp": "2026-02-25T01:15:42.297826"
+    },
+    {
+        "appid": 939960,
+        "name": "Far Cry New Dawn",
+        "timestamp": "2026-02-25T01:15:42.297828"
+    },
+    {
+        "appid": 239820,
+        "name": "Game Dev Tycoon",
+        "timestamp": "2026-02-25T01:15:42.297830"
+    },
+    {
+        "appid": 509980,
+        "name": "BIGFOOT",
+        "timestamp": "2026-02-25T01:15:42.297832"
+    },
+    {
+        "appid": 364360,
+        "name": "Total War: WARHAMMER",
+        "timestamp": "2026-02-25T01:15:42.297834"
+    },
+    {
+        "appid": 492720,
+        "name": "Tropico 6",
+        "timestamp": "2026-02-25T01:15:42.297835"
+    },
+    {
+        "appid": 12110,
+        "name": "Grand Theft Auto: Vice City",
+        "timestamp": "2026-02-25T01:15:42.297837"
+    },
+    {
+        "appid": 460790,
+        "name": "Bayonetta",
+        "timestamp": "2026-02-25T01:15:42.297839"
+    },
+    {
+        "appid": 627690,
+        "name": "Idle Champions of the Forgotten Realms",
+        "timestamp": "2026-02-25T01:15:42.297841"
+    },
+    {
+        "appid": 1213210,
+        "name": "Command & Conquer Remastered Collection",
+        "timestamp": "2026-02-25T01:15:42.297843"
+    },
+    {
+        "appid": 569480,
+        "name": "Kingdoms and Castles",
+        "timestamp": "2026-02-25T01:15:42.297845"
+    },
+    {
+        "appid": 2021910,
+        "name": "FPS Chess",
+        "timestamp": "2026-02-25T01:15:42.297847"
+    },
+    {
+        "appid": 242860,
+        "name": "Verdun",
+        "timestamp": "2026-02-25T01:15:42.297849"
+    },
+    {
+        "appid": 239160,
+        "name": "Thief",
+        "timestamp": "2026-02-25T01:15:42.297851"
+    },
+    {
+        "appid": 391460,
+        "name": "WARMODE",
+        "timestamp": "2026-02-25T01:15:42.297853"
+    },
+    {
+        "appid": 636480,
+        "name": "Ravenfield",
+        "timestamp": "2026-02-25T01:15:42.297854"
+    },
+    {
+        "appid": 2100,
+        "name": "Dark Messiah of Might & Magic",
+        "timestamp": "2026-02-25T01:15:42.297856"
+    },
+    {
+        "appid": 21690,
+        "name": "Resident Evil 5",
+        "timestamp": "2026-02-25T01:15:42.297858"
+    },
+    {
+        "appid": 228280,
+        "name": "Baldur's Gate: Enhanced Edition",
+        "timestamp": "2026-02-25T01:15:42.297860"
+    },
+    {
+        "appid": 629730,
+        "name": "Blade and Sorcery",
+        "timestamp": "2026-02-25T01:15:42.297862"
+    },
+    {
+        "appid": 2420510,
+        "name": "HoloCure - Save the Fans!",
+        "timestamp": "2026-02-25T01:15:42.297864"
+    },
+    {
+        "appid": 113420,
+        "name": "Fallen Earth Free2Play",
+        "timestamp": "2026-02-25T01:15:42.297866"
+    },
+    {
+        "appid": 706990,
+        "name": "BLOCKPOST",
+        "timestamp": "2026-02-25T01:15:42.297868"
+    },
+    {
+        "appid": 269210,
+        "name": "Hero Siege",
+        "timestamp": "2026-02-25T01:15:42.297870"
+    },
+    {
+        "appid": 304240,
+        "name": "Resident Evil",
+        "timestamp": "2026-02-25T01:15:42.297872"
+    },
+    {
+        "appid": 621060,
+        "name": "PC Building Simulator",
+        "timestamp": "2026-02-25T01:15:42.297874"
+    },
+    {
+        "appid": 48190,
+        "name": "Assassin\u2019s Creed Brotherhood",
+        "timestamp": "2026-02-25T01:15:42.297876"
+    },
+    {
+        "appid": 638970,
+        "name": "Yakuza 0",
+        "timestamp": "2026-02-25T01:15:42.297877"
+    },
+    {
+        "appid": 24010,
+        "name": "Train Simulator Classic",
+        "timestamp": "2026-02-25T01:15:42.297880"
+    },
+    {
+        "appid": 228380,
+        "name": "Wreckfest",
+        "timestamp": "2026-02-25T01:15:42.297882"
+    },
+    {
+        "appid": 327690,
+        "name": "Gigantic",
+        "timestamp": "2026-02-25T01:15:42.297884"
+    },
+    {
+        "appid": 417860,
+        "name": "Emily is Away",
+        "timestamp": "2026-02-25T01:15:42.297886"
+    },
+    {
+        "appid": 1058020,
+        "name": "STAR WARS Battlefront (Classic, 2004)",
+        "timestamp": "2026-02-25T01:15:42.297888"
+    },
+    {
+        "appid": 1262350,
+        "name": "SIGNALIS",
+        "timestamp": "2026-02-25T01:15:42.297890"
+    },
+    {
+        "appid": 582160,
+        "name": "Assassin's Creed Origins",
+        "timestamp": "2026-02-25T01:15:42.297892"
+    },
+    {
+        "appid": 287450,
+        "name": "Rise of Nations: Extended Edition",
+        "timestamp": "2026-02-25T01:15:42.297894"
+    },
+    {
+        "appid": 582500,
+        "name": "We Were Here",
+        "timestamp": "2026-02-25T01:15:42.297896"
+    },
+    {
+        "appid": 22320,
+        "name": "The Elder Scrolls III: Morrowind Game of the Year Edition",
+        "timestamp": "2026-02-25T01:15:42.297898"
+    },
+    {
+        "appid": 519860,
+        "name": "DUSK",
+        "timestamp": "2026-02-25T01:15:42.297900"
+    },
+    {
+        "appid": 442080,
+        "name": "Riders of Icarus",
+        "timestamp": "2026-02-25T01:15:42.297902"
+    },
+    {
+        "appid": 704270,
+        "name": "Generation Zero",
+        "timestamp": "2026-02-25T01:15:42.297904"
+    },
+    {
+        "appid": 40990,
+        "name": "Mafia",
+        "timestamp": "2026-02-25T01:15:42.297905"
+    },
+    {
+        "appid": 1627140,
+        "name": "Sabre Team",
+        "timestamp": "2026-02-25T01:15:42.297907"
+    },
+    {
+        "appid": 612880,
+        "name": "Wolfenstein II: The New Colossus",
+        "timestamp": "2026-02-25T01:15:42.297909"
+    },
+    {
+        "appid": 638070,
+        "name": "Murderous Pursuits",
+        "timestamp": "2026-02-25T01:15:42.297911"
+    },
+    {
+        "appid": 3146520,
+        "name": "WEBFISHING",
+        "timestamp": "2026-02-25T01:15:42.297913"
+    },
+    {
+        "appid": 537180,
+        "name": "Digimon Masters Online",
+        "timestamp": "2026-02-25T01:15:42.297915"
+    },
+    {
+        "appid": 232890,
+        "name": "Stronghold Crusader 2",
+        "timestamp": "2026-02-25T01:15:42.297917"
+    },
+    {
+        "appid": 6000,
+        "name": "STAR WARS Republic Commando",
+        "timestamp": "2026-02-25T01:15:42.297919"
+    },
+    {
+        "appid": 1049410,
+        "name": "Superliminal",
+        "timestamp": "2026-02-25T01:15:42.297921"
+    },
+    {
+        "appid": 1343370,
+        "name": "Old School RuneScape",
+        "timestamp": "2026-02-25T01:15:42.297923"
+    },
+    {
+        "appid": 1238860,
+        "name": "Battlefield 4",
+        "timestamp": "2026-02-25T01:15:42.297925"
+    },
+    {
+        "appid": 961200,
+        "name": "Predecessor",
+        "timestamp": "2026-02-25T01:15:42.297927"
+    },
+    {
+        "appid": 2527500,
+        "name": "MiSide",
+        "timestamp": "2026-02-25T01:15:42.297929"
+    },
+    {
+        "appid": 102600,
+        "name": "Orcs Must Die!",
+        "timestamp": "2026-02-25T01:15:42.297930"
+    },
+    {
+        "appid": 870780,
+        "name": "Control Ultimate Edition",
+        "timestamp": "2026-02-25T01:15:42.297932"
+    },
+    {
+        "appid": 24980,
+        "name": "Mass Effect 2 (2010 Edition)",
+        "timestamp": "2026-02-25T01:15:42.297934"
+    },
+    {
+        "appid": 312520,
+        "name": "Rain World",
+        "timestamp": "2026-02-25T01:15:42.297936"
+    },
+    {
+        "appid": 285190,
+        "name": "Warhammer 40,000: Dawn of War III",
+        "timestamp": "2026-02-25T01:15:42.297938"
+    },
+    {
+        "appid": 202170,
+        "name": "Sleeping Dogs",
+        "timestamp": "2026-02-25T01:15:42.297941"
+    },
+    {
+        "appid": 235600,
+        "name": "Tom Clancy\u2019s Splinter Cell Blacklist",
+        "timestamp": "2026-02-25T01:15:42.297943"
+    },
+    {
+        "appid": 34030,
+        "name": "Total War: NAPOLEON \u2013 Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.297945"
+    },
+    {
+        "appid": 459820,
+        "name": "Crush Crush",
+        "timestamp": "2026-02-25T01:15:42.297947"
+    },
+    {
+        "appid": 47810,
+        "name": "Dragon Age: Origins - Ultimate Edition",
+        "timestamp": "2026-02-25T01:15:42.297948"
+    },
+    {
+        "appid": 280790,
+        "name": "Creativerse",
+        "timestamp": "2026-02-25T01:15:42.297950"
+    },
+    {
+        "appid": 1313860,
+        "name": "EA SPORTS FIFA 21",
+        "timestamp": "2026-02-25T01:15:42.297952"
+    },
+    {
+        "appid": 2280,
+        "name": "DOOM + DOOM II",
+        "timestamp": "2026-02-25T01:15:42.297954"
+    },
+    {
+        "appid": 637090,
+        "name": "BATTLETECH",
+        "timestamp": "2026-02-25T01:15:42.297956"
+    },
+    {
+        "appid": 690790,
+        "name": "DiRT Rally 2.0",
+        "timestamp": "2026-02-25T01:15:42.297958"
+    },
+    {
+        "appid": 704850,
+        "name": "Thief Simulator",
+        "timestamp": "2026-02-25T01:15:42.297960"
+    },
+    {
+        "appid": 424370,
+        "name": "Wolcen: Lords of Mayhem",
+        "timestamp": "2026-02-25T01:15:42.297962"
+    },
+    {
+        "appid": 851850,
+        "name": "DRAGON BALL Z: KAKAROT",
+        "timestamp": "2026-02-25T01:15:42.297964"
+    },
+    {
+        "appid": 243470,
+        "name": "Watch_Dogs",
+        "timestamp": "2026-02-25T01:15:42.298031"
+    },
+    {
+        "appid": 491950,
+        "name": "Orwell: Keeping an Eye On You",
+        "timestamp": "2026-02-25T01:15:42.298033"
+    },
+    {
+        "appid": 1384160,
+        "name": "GUILTY GEAR -STRIVE-",
+        "timestamp": "2026-02-25T01:15:42.298035"
+    },
+    {
+        "appid": 2622000,
+        "name": "Astral Party ",
+        "timestamp": "2026-02-25T01:15:42.298037"
+    },
+    {
+        "appid": 1061910,
+        "name": "Metal: Hellsinger",
+        "timestamp": "2026-02-25T01:15:42.298039"
+    },
+    {
+        "appid": 247080,
+        "name": "Crypt of the NecroDancer",
+        "timestamp": "2026-02-25T01:15:42.298041"
+    },
+    {
+        "appid": 392110,
+        "name": "ENDLESS Space 2",
+        "timestamp": "2026-02-25T01:15:42.298043"
+    },
+    {
+        "appid": 47830,
+        "name": "Medal of Honor",
+        "timestamp": "2026-02-25T01:15:42.298045"
+    },
+    {
+        "appid": 214420,
+        "name": "Gear Up",
+        "timestamp": "2026-02-25T01:15:42.298047"
+    },
+    {
+        "appid": 9340,
+        "name": "Company of Heroes: Opposing Fronts",
+        "timestamp": "2026-02-25T01:15:42.298049"
+    },
+    {
+        "appid": 438040,
+        "name": "Shakes and Fidget",
+        "timestamp": "2026-02-25T01:15:42.298051"
+    },
+    {
+        "appid": 752590,
+        "name": "A Plague Tale: Innocence",
+        "timestamp": "2026-02-25T01:15:42.298052"
+    },
+    {
+        "appid": 736220,
+        "name": "Squad 44",
+        "timestamp": "2026-02-25T01:15:42.298054"
+    },
+    {
+        "appid": 933110,
+        "name": "Age of Empires III: Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.298056"
+    },
+    {
+        "appid": 24200,
+        "name": "DC Universe Online",
+        "timestamp": "2026-02-25T01:15:42.298058"
+    },
+    {
+        "appid": 304670,
+        "name": "Aeon Command",
+        "timestamp": "2026-02-25T01:15:42.298060"
+    },
+    {
+        "appid": 228200,
+        "name": "Company of Heroes",
+        "timestamp": "2026-02-25T01:15:42.298062"
+    },
+    {
+        "appid": 233720,
+        "name": "Surgeon Simulator",
+        "timestamp": "2026-02-25T01:15:42.298064"
+    },
+    {
+        "appid": 1483870,
+        "name": "Draw & Guess",
+        "timestamp": "2026-02-25T01:15:42.298066"
+    },
+    {
+        "appid": 692850,
+        "name": "Bloodstained: Ritual of the Night",
+        "timestamp": "2026-02-25T01:15:42.298069"
+    },
+    {
+        "appid": 1241100,
+        "name": "POLYGON: Multiplayer Shooter",
+        "timestamp": "2026-02-25T01:15:42.298071"
+    },
+    {
+        "appid": 15100,
+        "name": "Assassin's Creed: Director's Cut Edition",
+        "timestamp": "2026-02-25T01:15:42.298073"
+    },
+    {
+        "appid": 1282100,
+        "name": "REMNANT II",
+        "timestamp": "2026-02-25T01:15:42.298074"
+    },
+    {
+        "appid": 287290,
+        "name": "Resident Evil Revelations 2",
+        "timestamp": "2026-02-25T01:15:42.298076"
+    },
+    {
+        "appid": 1225330,
+        "name": "NBA 2K21",
+        "timestamp": "2026-02-25T01:15:42.298078"
+    },
+    {
+        "appid": 4920,
+        "name": "Natural Selection 2",
+        "timestamp": "2026-02-25T01:15:42.298080"
+    },
+    {
+        "appid": 1515950,
+        "name": "Capcom Arcade Stadium",
+        "timestamp": "2026-02-25T01:15:42.298082"
+    },
+    {
+        "appid": 19900,
+        "name": "Far Cry 2",
+        "timestamp": "2026-02-25T01:15:42.298084"
+    },
+    {
+        "appid": 979690,
+        "name": "The Ascent",
+        "timestamp": "2026-02-25T01:15:42.298086"
+    },
+    {
+        "appid": 130,
+        "name": "Half-Life: Blue Shift",
+        "timestamp": "2026-02-25T01:15:42.298088"
+    },
+    {
+        "appid": 809960,
+        "name": "Radical Heights",
+        "timestamp": "2026-02-25T01:15:42.298090"
+    },
+    {
+        "appid": 232050,
+        "name": "Eador. Masters of the Broken World",
+        "timestamp": "2026-02-25T01:15:42.298092"
+    },
+    {
+        "appid": 47790,
+        "name": "Medal of Honor",
+        "timestamp": "2026-02-25T01:15:42.298094"
+    },
+    {
+        "appid": 253980,
+        "name": "Enclave",
+        "timestamp": "2026-02-25T01:15:42.298096"
+    },
+    {
+        "appid": 292730,
+        "name": "Call of Duty: Infinite Warfare",
+        "timestamp": "2026-02-25T01:15:42.298098"
+    },
+    {
+        "appid": 774361,
+        "name": "Blasphemous",
+        "timestamp": "2026-02-25T01:15:42.298100"
+    },
+    {
+        "appid": 34270,
+        "name": "SEGA Mega Drive and Genesis Classics",
+        "timestamp": "2026-02-25T01:15:42.298102"
+    },
+    {
+        "appid": 4500,
+        "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+        "timestamp": "2026-02-25T01:15:42.298104"
+    },
+    {
+        "appid": 251060,
+        "name": "Wargame: Red Dragon",
+        "timestamp": "2026-02-25T01:15:42.298105"
+    },
+    {
+        "appid": 32470,
+        "name": "STAR WARS Empire at War - Gold Pack",
+        "timestamp": "2026-02-25T01:15:42.298107"
+    },
+    {
+        "appid": 837470,
+        "name": "Untitled Goose Game",
+        "timestamp": "2026-02-25T01:15:42.298109"
+    },
+    {
+        "appid": 834910,
+        "name": "ATLAS",
+        "timestamp": "2026-02-25T01:15:42.298111"
+    },
+    {
+        "appid": 454650,
+        "name": "DRAGON BALL XENOVERSE 2",
+        "timestamp": "2026-02-25T01:15:42.298113"
+    },
+    {
+        "appid": 1238820,
+        "name": "Battlefield 3",
+        "timestamp": "2026-02-25T01:15:42.298115"
+    },
+    {
+        "appid": 1284410,
+        "name": "GWENT: The Witcher Card Game",
+        "timestamp": "2026-02-25T01:15:42.298117"
+    },
+    {
+        "appid": 323470,
+        "name": "DRAGON BALL XENOVERSE",
+        "timestamp": "2026-02-25T01:15:42.298119"
+    },
+    {
+        "appid": 1089980,
+        "name": "The Henry Stickmin Collection",
+        "timestamp": "2026-02-25T01:15:42.298121"
+    },
+    {
+        "appid": 1147560,
+        "name": "Skul: The Hero Slayer",
+        "timestamp": "2026-02-25T01:15:42.298123"
+    },
+    {
+        "appid": 214560,
+        "name": "Mark of the Ninja",
+        "timestamp": "2026-02-25T01:15:42.298125"
+    },
+    {
+        "appid": 225080,
+        "name": "Brothers - A Tale of Two Sons",
+        "timestamp": "2026-02-25T01:15:42.298127"
+    },
+    {
+        "appid": 237930,
+        "name": "Transistor",
+        "timestamp": "2026-02-25T01:15:42.298129"
+    },
+    {
+        "appid": 96100,
+        "name": "Defy Gravity Extended",
+        "timestamp": "2026-02-25T01:15:42.298132"
+    },
+    {
+        "appid": 113200,
+        "name": "The Binding of Isaac",
+        "timestamp": "2026-02-25T01:15:42.298134"
+    },
+    {
+        "appid": 2310,
+        "name": "Quake",
+        "timestamp": "2026-02-25T01:15:42.298136"
+    },
+    {
+        "appid": 599140,
+        "name": "Graveyard Keeper",
+        "timestamp": "2026-02-25T01:15:42.298138"
+    },
+    {
+        "appid": 1840,
+        "name": "Source Filmmaker",
+        "timestamp": "2026-02-25T01:15:42.298140"
+    },
+    {
+        "appid": 65980,
+        "name": "Sid Meier's Civilization: Beyond Earth",
+        "timestamp": "2026-02-25T01:15:42.298142"
+    },
+    {
+        "appid": 373420,
+        "name": "Divinity: Original Sin - Enhanced Edition",
+        "timestamp": "2026-02-25T01:15:42.298143"
+    },
+    {
+        "appid": 1621690,
+        "name": "Core Keeper",
+        "timestamp": "2026-02-25T01:15:42.298145"
+    },
+    {
+        "appid": 311860,
+        "name": "Data Hacker: Initiation",
+        "timestamp": "2026-02-25T01:15:42.298147"
+    },
+    {
+        "appid": 1089090,
+        "name": "ONE PIECE: PIRATE WARRIORS 4",
+        "timestamp": "2026-02-25T01:15:42.298149"
+    },
+    {
+        "appid": 942970,
+        "name": "Unheard - Voices of Crime",
+        "timestamp": "2026-02-25T01:15:42.298151"
+    },
+    {
+        "appid": 41500,
+        "name": "Torchlight",
+        "timestamp": "2026-02-25T01:15:42.298153"
+    },
+    {
+        "appid": 1778820,
+        "name": "TEKKEN 8",
+        "timestamp": "2026-02-25T01:15:42.298155"
+    },
+    {
+        "appid": 17080,
+        "name": "Tribes: Ascend",
+        "timestamp": "2026-02-25T01:15:42.298157"
+    },
+    {
+        "appid": 1522820,
+        "name": "Orcs Must Die! 3",
+        "timestamp": "2026-02-25T01:15:42.298159"
+    },
+    {
+        "appid": 23310,
+        "name": "The Last Remnant",
+        "timestamp": "2026-02-25T01:15:42.298161"
+    },
+    {
+        "appid": 487220,
+        "name": "Freebie",
+        "timestamp": "2026-02-25T01:15:42.298163"
+    },
+    {
+        "appid": 34440,
+        "name": "Sid Meier's Civilization IV",
+        "timestamp": "2026-02-25T01:15:42.298164"
+    },
+    {
+        "appid": 4570,
+        "name": "Warhammer 40,000: Dawn of War - Anniversary Edition",
+        "timestamp": "2026-02-25T01:15:42.298166"
+    },
+    {
+        "appid": 2322560,
+        "name": "Love Is All Around",
+        "timestamp": "2026-02-25T01:15:42.298168"
+    },
+    {
+        "appid": 2344520,
+        "name": "Diablo IV",
+        "timestamp": "2026-02-25T01:15:42.298170"
+    },
+    {
+        "appid": 10680,
+        "name": "Aliens vs. Predator",
+        "timestamp": "2026-02-25T01:15:42.298172"
+    },
+    {
+        "appid": 6880,
+        "name": "Just Cause",
+        "timestamp": "2026-02-25T01:15:42.298174"
+    },
+    {
+        "appid": 216150,
+        "name": "MapleStory",
+        "timestamp": "2026-02-25T01:15:42.298176"
+    },
+    {
+        "appid": 443110,
+        "name": "Armored Warfare",
+        "timestamp": "2026-02-25T01:15:42.298178"
+    },
+    {
+        "appid": 378540,
+        "name": "The Surge",
+        "timestamp": "2026-02-25T01:15:42.298180"
+    },
+    {
+        "appid": 527430,
+        "name": "Warhammer 40,000: Inquisitor - Martyr",
+        "timestamp": "2026-02-25T01:15:42.298182"
+    },
+    {
+        "appid": 753640,
+        "name": "Outer Wilds",
+        "timestamp": "2026-02-25T01:15:42.298183"
+    },
+    {
+        "appid": 334210,
+        "name": "Fortified",
+        "timestamp": "2026-02-25T01:15:42.298185"
+    },
+    {
+        "appid": 206480,
+        "name": "Dungeons & Dragons Online",
+        "timestamp": "2026-02-25T01:15:42.298187"
+    },
+    {
+        "appid": 583950,
+        "name": "Artifact",
+        "timestamp": "2026-02-25T01:15:42.298189"
+    },
+    {
+        "appid": 921630,
+        "name": "\u97f3\u7075 INVAXION",
+        "timestamp": "2026-02-25T01:15:42.298191"
+    },
+    {
+        "appid": 215080,
+        "name": "WAKFU",
+        "timestamp": "2026-02-25T01:15:42.298194"
+    },
+    {
+        "appid": 65790,
+        "name": "ARMA: Cold War Assault",
+        "timestamp": "2026-02-25T01:15:42.298196"
+    },
+    {
+        "appid": 311340,
+        "name": "METAL GEAR SOLID V: GROUND ZEROES",
+        "timestamp": "2026-02-25T01:15:42.298198"
+    },
+    {
+        "appid": 535930,
+        "name": "Two Point Hospital",
+        "timestamp": "2026-02-25T01:15:42.298200"
+    },
+    {
+        "appid": 332070,
+        "name": "School of Dragons",
+        "timestamp": "2026-02-25T01:15:42.298203"
+    },
+    {
+        "appid": 414700,
+        "name": "Outlast 2",
+        "timestamp": "2026-02-25T01:15:42.298225"
+    },
+    {
+        "appid": 270150,
+        "name": "RUNNING WITH RIFLES",
+        "timestamp": "2026-02-25T01:15:42.298228"
+    },
+    {
+        "appid": 292910,
+        "name": "Deponia: The Complete Journey",
+        "timestamp": "2026-02-25T01:15:42.298231"
+    },
+    {
+        "appid": 447020,
+        "name": "Farming Simulator 17",
+        "timestamp": "2026-02-25T01:15:42.298234"
+    },
+    {
+        "appid": 17300,
+        "name": "Crysis",
+        "timestamp": "2026-02-25T01:15:42.298237"
+    },
+    {
+        "appid": 1282730,
+        "name": "Loop Hero",
+        "timestamp": "2026-02-25T01:15:42.298241"
+    },
+    {
+        "appid": 32800,
+        "name": "Lord of the Rings: War in the North",
+        "timestamp": "2026-02-25T01:15:42.298243"
+    },
+    {
+        "appid": 102500,
+        "name": "Kingdoms of Amalur: Reckoning",
+        "timestamp": "2026-02-25T01:15:42.298246"
+    },
+    {
+        "appid": 8850,
+        "name": "BioShock 2",
+        "timestamp": "2026-02-25T01:15:42.298249"
+    },
+    {
+        "appid": 899440,
+        "name": "GOD EATER 3",
+        "timestamp": "2026-02-25T01:15:42.298251"
+    },
+    {
+        "appid": 418240,
+        "name": "Shadow Tactics: Blades of the Shogun",
+        "timestamp": "2026-02-25T01:15:42.298254"
+    },
+    {
+        "appid": 207230,
+        "name": "ArcheBlade",
+        "timestamp": "2026-02-25T01:15:42.298258"
+    },
+    {
+        "appid": 20570,
+        "name": "Warhammer 40,000: Dawn of War II Chaos Rising",
+        "timestamp": "2026-02-25T01:15:42.298262"
+    },
+    {
+        "appid": 17460,
+        "name": "Mass Effect (2007)",
+        "timestamp": "2026-02-25T01:15:42.298264"
+    },
+    {
+        "appid": 383150,
+        "name": "Dead Island Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.298266"
+    },
+    {
+        "appid": 224760,
+        "name": "FEZ",
+        "timestamp": "2026-02-25T01:15:42.298267"
+    },
+    {
+        "appid": 1178830,
+        "name": "Bright Memory: Infinite",
+        "timestamp": "2026-02-25T01:15:42.298269"
+    },
+    {
+        "appid": 510840,
+        "name": "Evolvation",
+        "timestamp": "2026-02-25T01:15:42.298271"
+    },
+    {
+        "appid": 2012510,
+        "name": "Stormgate",
+        "timestamp": "2026-02-25T01:15:42.298273"
+    },
+    {
+        "appid": 297000,
+        "name": "Heroes of Might & Magic III - HD Edition",
+        "timestamp": "2026-02-25T01:15:42.298275"
+    },
+    {
+        "appid": 1151640,
+        "name": "Horizon Zero Dawn Complete Edition",
+        "timestamp": "2026-02-25T01:15:42.298277"
+    },
+    {
+        "appid": 334230,
+        "name": "Town of Salem",
+        "timestamp": "2026-02-25T01:15:42.298279"
+    },
+    {
+        "appid": 418070,
+        "name": "Turbo Pug",
+        "timestamp": "2026-02-25T01:15:42.298281"
+    },
+    {
+        "appid": 364470,
+        "name": "The Elder Scrolls: Legends",
+        "timestamp": "2026-02-25T01:15:42.298283"
+    },
+    {
+        "appid": 1190000,
+        "name": "Car Mechanic Simulator 2021",
+        "timestamp": "2026-02-25T01:15:42.298285"
+    },
+    {
+        "appid": 601430,
+        "name": "The Evil Within 2",
+        "timestamp": "2026-02-25T01:15:42.298287"
+    },
+    {
+        "appid": 263500,
+        "name": "Dragons and Titans",
+        "timestamp": "2026-02-25T01:15:42.298290"
+    },
+    {
+        "appid": 4700,
+        "name": "Total War: MEDIEVAL II \u2013 Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.298292"
+    },
+    {
+        "appid": 39140,
+        "name": "FINAL FANTASY VII",
+        "timestamp": "2026-02-25T01:15:42.298294"
+    },
+    {
+        "appid": 675010,
+        "name": "MudRunner",
+        "timestamp": "2026-02-25T01:15:42.298296"
+    },
+    {
+        "appid": 220440,
+        "name": "DmC: Devil May Cry",
+        "timestamp": "2026-02-25T01:15:42.298298"
+    },
+    {
+        "appid": 240320,
+        "name": "Panzar",
+        "timestamp": "2026-02-25T01:15:42.298300"
+    },
+    {
+        "appid": 544730,
+        "name": "Catan Universe",
+        "timestamp": "2026-02-25T01:15:42.298302"
+    },
+    {
+        "appid": 337320,
+        "name": "Paint the Town Red",
+        "timestamp": "2026-02-25T01:15:42.298304"
+    },
+    {
+        "appid": 350640,
+        "name": "Sherlock Holmes: The Devil's Daughter",
+        "timestamp": "2026-02-25T01:15:42.298306"
+    },
+    {
+        "appid": 2231450,
+        "name": "Pizza Tower",
+        "timestamp": "2026-02-25T01:15:42.298308"
+    },
+    {
+        "appid": 552100,
+        "name": "Brick Rigs",
+        "timestamp": "2026-02-25T01:15:42.298309"
+    },
+    {
+        "appid": 1475810,
+        "name": "Ghostwire: Tokyo",
+        "timestamp": "2026-02-25T01:15:42.298311"
+    },
+    {
+        "appid": 427270,
+        "name": "Orcs Must Die! Unchained",
+        "timestamp": "2026-02-25T01:15:42.298313"
+    },
+    {
+        "appid": 392160,
+        "name": "X4: Foundations",
+        "timestamp": "2026-02-25T01:15:42.298315"
+    },
+    {
+        "appid": 346330,
+        "name": "BrainBread 2",
+        "timestamp": "2026-02-25T01:15:42.298317"
+    },
+    {
+        "appid": 3910,
+        "name": "Sid Meier's Civilization III Complete",
+        "timestamp": "2026-02-25T01:15:42.298319"
+    },
+    {
+        "appid": 1380400,
+        "name": "Saving Grace",
+        "timestamp": "2026-02-25T01:15:42.298321"
+    },
+    {
+        "appid": 805550,
+        "name": "Assetto Corsa Competizione",
+        "timestamp": "2026-02-25T01:15:42.298323"
+    },
+    {
+        "appid": 41000,
+        "name": "Serious Sam HD: The First Encounter",
+        "timestamp": "2026-02-25T01:15:42.298325"
+    },
+    {
+        "appid": 1284190,
+        "name": "The Planet Crafter",
+        "timestamp": "2026-02-25T01:15:42.298327"
+    },
+    {
+        "appid": 2064650,
+        "name": "Tower of Fantasy",
+        "timestamp": "2026-02-25T01:15:42.298329"
+    },
+    {
+        "appid": 56437,
+        "name": "Warhammer 40,000: Dawn of War II: Retribution",
+        "timestamp": "2026-02-25T01:15:42.298331"
+    },
+    {
+        "appid": 585420,
+        "name": "Trailmakers",
+        "timestamp": "2026-02-25T01:15:42.298333"
+    },
+    {
+        "appid": 1562430,
+        "name": "DREDGE",
+        "timestamp": "2026-02-25T01:15:42.298335"
+    },
+    {
+        "appid": 1987080,
+        "name": "Inside the Backrooms",
+        "timestamp": "2026-02-25T01:15:42.298337"
+    },
+    {
+        "appid": 666220,
+        "name": "CS2D",
+        "timestamp": "2026-02-25T01:15:42.298339"
+    },
+    {
+        "appid": 245620,
+        "name": "Tropico 5",
+        "timestamp": "2026-02-25T01:15:42.298340"
+    },
+    {
+        "appid": 529340,
+        "name": "Victoria 3",
+        "timestamp": "2026-02-25T01:15:42.298342"
+    },
+    {
+        "appid": 657200,
+        "name": "Hand Simulator",
+        "timestamp": "2026-02-25T01:15:42.298344"
+    },
+    {
+        "appid": 209160,
+        "name": "Call of Duty: Ghosts",
+        "timestamp": "2026-02-25T01:15:42.298346"
+    },
+    {
+        "appid": 6850,
+        "name": "Hitman 2: Silent Assassin",
+        "timestamp": "2026-02-25T01:15:42.298348"
+    },
+    {
+        "appid": 1388770,
+        "name": "Cruelty Squad",
+        "timestamp": "2026-02-25T01:15:42.298350"
+    },
+    {
+        "appid": 603850,
+        "name": "Age of History II",
+        "timestamp": "2026-02-25T01:15:42.298353"
+    },
+    {
+        "appid": 32430,
+        "name": "STAR WARS - The Force Unleashed Ultimate Sith Edition",
+        "timestamp": "2026-02-25T01:15:42.298369"
+    },
+    {
+        "appid": 253900,
+        "name": "Knights and Merchants",
+        "timestamp": "2026-02-25T01:15:42.298371"
+    },
+    {
+        "appid": 1113000,
+        "name": "Persona 4 Golden",
+        "timestamp": "2026-02-25T01:15:42.298372"
+    },
+    {
+        "appid": 1016920,
+        "name": "Unrailed!",
+        "timestamp": "2026-02-25T01:15:42.298375"
+    },
+    {
+        "appid": 955050,
+        "name": "Bright Memory",
+        "timestamp": "2026-02-25T01:15:42.298377"
+    },
+    {
+        "appid": 1929610,
+        "name": "Demonologist",
+        "timestamp": "2026-02-25T01:15:42.298379"
+    },
+    {
+        "appid": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "timestamp": "2026-02-25T01:15:42.298381"
+    },
+    {
+        "appid": 2096610,
+        "name": "Crysis 3 Remastered",
+        "timestamp": "2026-02-25T01:15:42.298383"
+    },
+    {
+        "appid": 446800,
+        "name": "Transport Fever",
+        "timestamp": "2026-02-25T01:15:42.298385"
+    },
+    {
+        "appid": 250400,
+        "name": "How to Survive",
+        "timestamp": "2026-02-25T01:15:42.298387"
+    },
+    {
+        "appid": 209170,
+        "name": "Call of Duty: Ghosts",
+        "timestamp": "2026-02-25T01:15:42.298389"
+    },
+    {
+        "appid": 1211020,
+        "name": "Wobbly Life",
+        "timestamp": "2026-02-25T01:15:42.298391"
+    },
+    {
+        "appid": 1296830,
+        "name": "\u6696\u96ea Warm Snow",
+        "timestamp": "2026-02-25T01:15:42.298393"
+    },
+    {
+        "appid": 410320,
+        "name": "EARTH DEFENSE FORCE 4.1 The Shadow of New Despair",
+        "timestamp": "2026-02-25T01:15:42.298395"
+    },
+    {
+        "appid": 261110,
+        "name": "Killer is Dead - Nightmare Edition",
+        "timestamp": "2026-02-25T01:15:42.298397"
+    },
+    {
+        "appid": 208580,
+        "name": "STAR WARS Knights of the Old Republic II - The Sith Lords",
+        "timestamp": "2026-02-25T01:15:42.298399"
+    },
+    {
+        "appid": 775500,
+        "name": "SCARLET NEXUS",
+        "timestamp": "2026-02-25T01:15:42.298401"
+    },
+    {
+        "appid": 447820,
+        "name": "Day of Infamy",
+        "timestamp": "2026-02-25T01:15:42.298403"
+    },
+    {
+        "appid": 1599600,
+        "name": "PlateUp!",
+        "timestamp": "2026-02-25T01:15:42.298405"
+    },
+    {
+        "appid": 475550,
+        "name": "Beholder",
+        "timestamp": "2026-02-25T01:15:42.298406"
+    },
+    {
+        "appid": 257510,
+        "name": "The Talos Principle",
+        "timestamp": "2026-02-25T01:15:42.298408"
+    },
+    {
+        "appid": 474960,
+        "name": "Quantum Break",
+        "timestamp": "2026-02-25T01:15:42.298410"
+    },
+    {
+        "appid": 237110,
+        "name": "Mortal Kombat Komplete Edition",
+        "timestamp": "2026-02-25T01:15:42.298412"
+    },
+    {
+        "appid": 444640,
+        "name": "Bloons TD Battles",
+        "timestamp": "2026-02-25T01:15:42.298414"
+    },
+    {
+        "appid": 843380,
+        "name": "Super Animal Royale",
+        "timestamp": "2026-02-25T01:15:42.298416"
+    },
+    {
+        "appid": 560130,
+        "name": "Pillars of Eternity II: Deadfire",
+        "timestamp": "2026-02-25T01:15:42.298418"
+    },
+    {
+        "appid": 4760,
+        "name": "Rome: Total War - Collection",
+        "timestamp": "2026-02-25T01:15:42.298420"
+    },
+    {
+        "appid": 568220,
+        "name": "Lobotomy Corporation | Monster Management Simulation",
+        "timestamp": "2026-02-25T01:15:42.298422"
+    },
+    {
+        "appid": 202750,
+        "name": "Alan Wake's American Nightmare",
+        "timestamp": "2026-02-25T01:15:42.298424"
+    },
+    {
+        "appid": 257350,
+        "name": "Baldur's Gate II: Enhanced Edition",
+        "timestamp": "2026-02-25T01:15:42.298425"
+    },
+    {
+        "appid": 1676130,
+        "name": "Deadlink",
+        "timestamp": "2026-02-25T01:15:42.298427"
+    },
+    {
+        "appid": 34870,
+        "name": "Sniper: Ghost Warrior 2",
+        "timestamp": "2026-02-25T01:15:42.298430"
+    },
+    {
+        "appid": 224540,
+        "name": "Ace of Spades: Battle Builder",
+        "timestamp": "2026-02-25T01:15:42.298432"
+    },
+    {
+        "appid": 816020,
+        "name": "JUMP FORCE",
+        "timestamp": "2026-02-25T01:15:42.298434"
+    },
+    {
+        "appid": 699130,
+        "name": "World War Z",
+        "timestamp": "2026-02-25T01:15:42.298436"
+    },
+    {
+        "appid": 681660,
+        "name": "Bless Online",
+        "timestamp": "2026-02-25T01:15:42.298438"
+    },
+    {
+        "appid": 462780,
+        "name": "Darksiders Warmastered Edition",
+        "timestamp": "2026-02-25T01:15:42.298439"
+    },
+    {
+        "appid": 34460,
+        "name": "Civilization IV: Beyond the Sword",
+        "timestamp": "2026-02-25T01:15:42.298441"
+    },
+    {
+        "appid": 448510,
+        "name": "Overcooked",
+        "timestamp": "2026-02-25T01:15:42.298443"
+    },
+    {
+        "appid": 1129580,
+        "name": "Medieval Dynasty",
+        "timestamp": "2026-02-25T01:15:42.298445"
+    },
+    {
+        "appid": 1307550,
+        "name": "Craftopia",
+        "timestamp": "2026-02-25T01:15:42.298447"
+    },
+    {
+        "appid": 460920,
+        "name": "Steep",
+        "timestamp": "2026-02-25T01:15:42.298449"
+    },
+    {
+        "appid": 55110,
+        "name": "Red Faction: Armageddon",
+        "timestamp": "2026-02-25T01:15:42.298451"
+    },
+    {
+        "appid": 278080,
+        "name": "DYNASTY WARRIORS 8: Xtreme Legends Complete Edition",
+        "timestamp": "2026-02-25T01:15:42.298453"
+    },
+    {
+        "appid": 996580,
+        "name": "Spyro Reignited Trilogy",
+        "timestamp": "2026-02-25T01:15:42.298455"
+    },
+    {
+        "appid": 231060,
+        "name": "Ragnarok Online 2",
+        "timestamp": "2026-02-25T01:15:42.298457"
+    },
+    {
+        "appid": 108800,
+        "name": "Crysis 2 - Maximum Edition",
+        "timestamp": "2026-02-25T01:15:42.298458"
+    },
+    {
+        "appid": 1094520,
+        "name": "Sands of Salzaar",
+        "timestamp": "2026-02-25T01:15:42.298460"
+    },
+    {
+        "appid": 673950,
+        "name": "Farm Together",
+        "timestamp": "2026-02-25T01:15:42.298462"
+    },
+    {
+        "appid": 747660,
+        "name": "Five Nights at Freddy's: Security Breach",
+        "timestamp": "2026-02-25T01:15:42.298464"
+    },
+    {
+        "appid": 6910,
+        "name": "Deus Ex: Game of the Year Edition",
+        "timestamp": "2026-02-25T01:15:42.298466"
+    },
+    {
+        "appid": 239350,
+        "name": "Spelunky",
+        "timestamp": "2026-02-25T01:15:42.298468"
+    },
+    {
+        "appid": 360430,
+        "name": "Mafia III: Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.298470"
+    },
+    {
+        "appid": 215280,
+        "name": "Secret World Legends",
+        "timestamp": "2026-02-25T01:15:42.298472"
+    },
+    {
+        "appid": 1030840,
+        "name": "Mafia: Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.298474"
+    },
+    {
+        "appid": 673130,
+        "name": "AMID EVIL",
+        "timestamp": "2026-02-25T01:15:42.298476"
+    },
+    {
+        "appid": 377300,
+        "name": "Thunder Tier One",
+        "timestamp": "2026-02-25T01:15:42.298478"
+    },
+    {
+        "appid": 323850,
+        "name": "Move or Die",
+        "timestamp": "2026-02-25T01:15:42.298480"
+    },
+    {
+        "appid": 2552430,
+        "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+        "timestamp": "2026-02-25T01:15:42.298482"
+    },
+    {
+        "appid": 823500,
+        "name": "BONEWORKS",
+        "timestamp": "2026-02-25T01:15:42.298484"
+    },
+    {
+        "appid": 841370,
+        "name": "NBA 2K19",
+        "timestamp": "2026-02-25T01:15:42.298486"
+    },
+    {
+        "appid": 204340,
+        "name": "Serious Sam II",
+        "timestamp": "2026-02-25T01:15:42.298488"
+    },
+    {
+        "appid": 794260,
+        "name": "Outward Definitive Edition",
+        "timestamp": "2026-02-25T01:15:42.298490"
+    },
+    {
+        "appid": 299460,
+        "name": "Woodle Tree Adventures",
+        "timestamp": "2026-02-25T01:15:42.298492"
+    },
+    {
+        "appid": 2680010,
+        "name": "The First Berserker: Khazan",
+        "timestamp": "2026-02-25T01:15:42.298494"
+    },
+    {
+        "appid": 1755910,
+        "name": "Capcom Arcade 2nd Stadium",
+        "timestamp": "2026-02-25T01:15:42.298502"
+    },
+    {
+        "appid": 1266680,
+        "name": "Strobophagia | Rave Horror",
+        "timestamp": "2026-02-25T01:15:42.298504"
+    },
+    {
+        "appid": 265550,
+        "name": "Dead Rising 3 Apocalypse Edition",
+        "timestamp": "2026-02-25T01:15:42.298506"
+    },
+    {
+        "appid": 246900,
+        "name": "Viscera Cleanup Detail",
+        "timestamp": "2026-02-25T01:15:42.298508"
+    },
+    {
+        "appid": 253960,
+        "name": "Jack Orlando: Director's Cut",
+        "timestamp": "2026-02-25T01:15:42.298510"
+    },
+    {
+        "appid": 450390,
+        "name": "The Lab",
+        "timestamp": "2026-02-25T01:15:42.298512"
+    },
+    {
+        "appid": 920210,
+        "name": "LEGO Star Wars: The Skywalker Saga",
+        "timestamp": "2026-02-25T01:15:42.298514"
+    },
+    {
+        "appid": 17480,
+        "name": "Command & Conquer: Red Alert 3",
+        "timestamp": "2026-02-25T01:15:42.298516"
+    },
+    {
+        "appid": 249130,
+        "name": "LEGO Marvel Super Heroes",
+        "timestamp": "2026-02-25T01:15:42.298518"
+    },
+    {
+        "appid": 1017180,
+        "name": "The Long Drive",
+        "timestamp": "2026-02-25T01:15:42.298520"
+    },
+    {
+        "appid": 26800,
+        "name": "Braid",
+        "timestamp": "2026-02-25T01:15:42.298522"
+    },
+    {
+        "appid": 1515210,
+        "name": "The Past Within",
+        "timestamp": "2026-02-25T01:15:42.298524"
+    },
+    {
+        "appid": 1147550,
+        "name": "Not For Broadcast",
+        "timestamp": "2026-02-25T01:15:42.298526"
+    },
+    {
+        "appid": 640590,
+        "name": "The LEGO NINJAGO Movie Video Game",
+        "timestamp": "2026-02-25T01:15:42.298528"
+    },
+    {
+        "appid": 434650,
+        "name": "Lost Castle / \u5931\u843d\u57ce\u5821",
+        "timestamp": "2026-02-25T01:15:42.298530"
+    },
+    {
+        "appid": 1774580,
+        "name": "STAR WARS Jedi: Survivor",
+        "timestamp": "2026-02-25T01:15:42.298532"
+    },
+    {
+        "appid": 431730,
+        "name": "Aseprite",
+        "timestamp": "2026-02-25T01:15:42.298534"
+    },
+    {
+        "appid": 780310,
+        "name": "The Riftbreaker",
+        "timestamp": "2026-02-25T01:15:42.298535"
+    },
+    {
+        "appid": 261030,
+        "name": "The Walking Dead: Season Two",
+        "timestamp": "2026-02-25T01:15:42.298537"
+    },
+    {
+        "appid": 226840,
+        "name": "Age of Wonders III",
+        "timestamp": "2026-02-25T01:15:42.298539"
+    },
+    {
+        "appid": 374040,
+        "name": "Portal Knights",
+        "timestamp": "2026-02-25T01:15:42.298541"
+    },
+    {
+        "appid": 1328670,
+        "name": "Mass Effect Legendary Edition",
+        "timestamp": "2026-02-25T01:15:42.298543"
+    },
+    {
+        "appid": 1044720,
+        "name": "Farthest Frontier",
+        "timestamp": "2026-02-25T01:15:42.298545"
+    },
+    {
+        "appid": 668580,
+        "name": "Atomic Heart",
+        "timestamp": "2026-02-25T01:15:42.298547"
+    },
+    {
+        "appid": 544750,
+        "name": "SOULCALIBUR VI",
+        "timestamp": "2026-02-25T01:15:42.298549"
+    },
+    {
+        "appid": 972660,
+        "name": "Spiritfarer: Farewell Edition",
+        "timestamp": "2026-02-25T01:15:42.298551"
+    },
+    {
+        "appid": 1150690,
+        "name": "OMORI",
+        "timestamp": "2026-02-25T01:15:42.298553"
+    }
+]

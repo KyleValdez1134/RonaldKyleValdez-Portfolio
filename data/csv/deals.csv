@@ -1,1 +1,10 @@
-game_id,title,platform,price,discount,timestamp
+game_id,title,platform,original_price,discounted_price,discount_percent,timestamp730,Counter-Strike 2,Steam,,,2026-02-25T00:51:52.013217
+686060,Mewgenics,Steam,26.99,,2026-02-25T00:51:52.013228
+1808500,ARC Raiders,Steam,39.99,,2026-02-25T00:51:52.013232
+230410,Warframe,Steam,,,2026-02-25T00:51:52.013235
+1771300,Kingdom Come: Deliverance II,Steam,29.99,,2026-02-25T00:51:52.013239
+578080,PUBG: BATTLEGROUNDS,Steam,,,2026-02-25T00:51:52.013241
+1172470,Apex Legends™,Steam,,,2026-02-25T00:51:52.013244
+570,Dota 2,Steam,,,2026-02-25T00:51:52.013246
+3564740,Where Winds Meet,Steam,,,2026-02-25T00:51:52.013248
+553850,HELLDIVERS™ 2,Steam,39.99,,2026-02-25T00:51:52.013250

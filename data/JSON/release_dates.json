@@ -1,1 +1,702 @@
-[]
+[
+    {
+        "game_id": 10,
+        "title": "Counter-Strike",
+        "platform": "Steam",
+        "release_date": "Nov 1, 2000",
+        "timestamp": "2026-02-25T01:24:58.701575"
+    },
+    {
+        "game_id": 30,
+        "title": "Day of Defeat",
+        "platform": "Steam",
+        "release_date": "May 1, 2003",
+        "timestamp": "2026-02-25T01:24:59.478450"
+    },
+    {
+        "game_id": 40,
+        "title": "Deathmatch Classic",
+        "platform": "Steam",
+        "release_date": "Jun 1, 2001",
+        "timestamp": "2026-02-25T01:25:00.154729"
+    },
+    {
+        "game_id": 50,
+        "title": "Half-Life: Opposing Force",
+        "platform": "Steam",
+        "release_date": "Nov 1, 1999",
+        "timestamp": "2026-02-25T01:25:00.825945"
+    },
+    {
+        "game_id": 70,
+        "title": "Half-Life",
+        "platform": "Steam",
+        "release_date": "Nov 19, 1998",
+        "timestamp": "2026-02-25T01:25:01.498513"
+    },
+    {
+        "game_id": 80,
+        "title": "Counter-Strike: Condition Zero",
+        "platform": "Steam",
+        "release_date": "Mar 1, 2004",
+        "timestamp": "2026-02-25T01:25:02.178181"
+    },
+    {
+        "game_id": 100,
+        "title": "Counter-Strike: Condition Zero",
+        "platform": "Steam",
+        "release_date": "Mar 1, 2004",
+        "timestamp": "2026-02-25T01:25:02.833254"
+    },
+    {
+        "game_id": 130,
+        "title": "Half-Life: Blue Shift",
+        "platform": "Steam",
+        "release_date": "Jun 1, 2001",
+        "timestamp": "2026-02-25T01:25:03.491991"
+    },
+    {
+        "game_id": 220,
+        "title": "Half-Life 2",
+        "platform": "Steam",
+        "release_date": "Nov 16, 2004",
+        "timestamp": "2026-02-25T01:25:04.216813"
+    },
+    {
+        "game_id": 240,
+        "title": "Counter-Strike: Source",
+        "platform": "Steam",
+        "release_date": "Nov 1, 2004",
+        "timestamp": "2026-02-25T01:25:04.894776"
+    },
+    {
+        "game_id": 280,
+        "title": "Half-Life: Source",
+        "platform": "Steam",
+        "release_date": "Jun 1, 2004",
+        "timestamp": "2026-02-25T01:25:05.553253"
+    },
+    {
+        "game_id": 300,
+        "title": "Day of Defeat: Source",
+        "platform": "Steam",
+        "release_date": "Jul 12, 2010",
+        "timestamp": "2026-02-25T01:25:06.209746"
+    },
+    {
+        "game_id": 320,
+        "title": "Half-Life 2: Deathmatch",
+        "platform": "Steam",
+        "release_date": "Nov 1, 2004",
+        "timestamp": "2026-02-25T01:25:06.841246"
+    },
+    {
+        "game_id": 340,
+        "title": "Half-Life 2: Lost Coast",
+        "platform": "Steam",
+        "release_date": "Oct 27, 2005",
+        "timestamp": "2026-02-25T01:25:07.524198"
+    },
+    {
+        "game_id": 360,
+        "title": "Half-Life Deathmatch: Source",
+        "platform": "Steam",
+        "release_date": "May 1, 2006",
+        "timestamp": "2026-02-25T01:25:08.201841"
+    },
+    {
+        "game_id": 380,
+        "title": "Half-Life 2: Episode One",
+        "platform": "Steam",
+        "release_date": "Jun 1, 2006",
+        "timestamp": "2026-02-25T01:25:08.889610"
+    },
+    {
+        "game_id": 400,
+        "title": "Portal",
+        "platform": "Steam",
+        "release_date": "Oct 10, 2007",
+        "timestamp": "2026-02-25T01:25:09.593352"
+    },
+    {
+        "game_id": 420,
+        "title": "Half-Life 2: Episode Two",
+        "platform": "Steam",
+        "release_date": "Oct 10, 2007",
+        "timestamp": "2026-02-25T01:25:10.269154"
+    },
+    {
+        "game_id": 440,
+        "title": "Team Fortress 2",
+        "platform": "Steam",
+        "release_date": "Oct 10, 2007",
+        "timestamp": "2026-02-25T01:25:10.950773"
+    },
+    {
+        "game_id": 500,
+        "title": "Left 4 Dead",
+        "platform": "Steam",
+        "release_date": "Nov 17, 2008",
+        "timestamp": "2026-02-25T01:25:11.620461"
+    },
+    {
+        "game_id": 550,
+        "title": "Left 4 Dead 2",
+        "platform": "Steam",
+        "release_date": "Nov 16, 2009",
+        "timestamp": "2026-02-25T01:25:12.305479"
+    },
+    {
+        "game_id": 620,
+        "title": "Portal 2",
+        "platform": "Steam",
+        "release_date": "Apr 18, 2011",
+        "timestamp": "2026-02-25T01:25:12.997273"
+    },
+    {
+        "game_id": 630,
+        "title": "Alien Swarm",
+        "platform": "Steam",
+        "release_date": "Jul 19, 2010",
+        "timestamp": "2026-02-25T01:25:13.676860"
+    },
+    {
+        "game_id": 730,
+        "title": "Counter-Strike: Global Offensive",
+        "platform": "Steam",
+        "release_date": "Aug 21, 2012",
+        "timestamp": "2026-02-25T01:25:14.381182"
+    },
+    {
+        "game_id": 1250,
+        "title": "Killing Floor",
+        "platform": "Steam",
+        "release_date": "May 14, 2009",
+        "timestamp": "2026-02-25T01:25:15.104248"
+    },
+    {
+        "game_id": 1840,
+        "title": "Source Filmmaker",
+        "platform": "Steam",
+        "release_date": "Jul 10, 2012",
+        "timestamp": "2026-02-25T01:25:15.771989"
+    },
+    {
+        "game_id": 2100,
+        "title": "Dark Messiah of Might & Magic",
+        "platform": "Steam",
+        "release_date": "Oct 25, 2006",
+        "timestamp": "2026-02-25T01:25:16.453091"
+    },
+    {
+        "game_id": 2280,
+        "title": "DOOM + DOOM II",
+        "platform": "Steam",
+        "release_date": "Aug 3, 2007",
+        "timestamp": "2026-02-25T01:25:17.111617"
+    },
+    {
+        "game_id": 2310,
+        "title": "Quake",
+        "platform": "Steam",
+        "release_date": "Aug 3, 2007",
+        "timestamp": "2026-02-25T01:25:17.792065"
+    },
+    {
+        "game_id": 2630,
+        "title": "Call of Duty 2",
+        "platform": "Steam",
+        "release_date": "Oct 13, 2006",
+        "timestamp": "2026-02-25T01:25:18.509632"
+    },
+    {
+        "game_id": 3590,
+        "title": "Plants vs. Zombies GOTY Edition",
+        "platform": "Steam",
+        "release_date": "May 5, 2009",
+        "timestamp": "2026-02-25T01:25:19.161211"
+    },
+    {
+        "game_id": 3910,
+        "title": "Sid Meier's Civilization III Complete",
+        "platform": "Steam",
+        "release_date": "Oct 25, 2006",
+        "timestamp": "2026-02-25T01:25:19.846458"
+    },
+    {
+        "game_id": 4000,
+        "title": "Garry's Mod",
+        "platform": "Steam",
+        "release_date": "Nov 29, 2006",
+        "timestamp": "2026-02-25T01:25:20.518904"
+    },
+    {
+        "game_id": 4500,
+        "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+        "platform": "Steam",
+        "release_date": "Mar 20, 2007",
+        "timestamp": "2026-02-25T01:25:21.201170"
+    },
+    {
+        "game_id": 4560,
+        "title": "Company of Heroes - Legacy Edition",
+        "platform": "Steam",
+        "release_date": "Jul 17, 2007",
+        "timestamp": "2026-02-25T01:25:21.875982"
+    },
+    {
+        "game_id": 4570,
+        "title": "Warhammer 40,000: Dawn of War - Anniversary Edition",
+        "platform": "Steam",
+        "release_date": "Aug 7, 2007",
+        "timestamp": "2026-02-25T01:25:22.560635"
+    },
+    {
+        "game_id": 4700,
+        "title": "Total War: MEDIEVAL II \u2013 Definitive Edition",
+        "platform": "Steam",
+        "release_date": "Nov 15, 2006",
+        "timestamp": "2026-02-25T01:25:23.248844"
+    },
+    {
+        "game_id": 4760,
+        "title": "Rome: Total War - Collection",
+        "platform": "Steam",
+        "release_date": "Aug 28, 2007",
+        "timestamp": "2026-02-25T01:25:23.921657"
+    },
+    {
+        "game_id": 4920,
+        "title": "Natural Selection 2",
+        "platform": "Steam",
+        "release_date": "Oct 30, 2012",
+        "timestamp": "2026-02-25T01:25:24.641912"
+    },
+    {
+        "game_id": 6000,
+        "title": "STAR WARS Republic Commando",
+        "platform": "Steam",
+        "release_date": "Jul 8, 2009",
+        "timestamp": "2026-02-25T01:25:25.345540"
+    },
+    {
+        "game_id": 6060,
+        "title": "STAR WARS Battlefront II (Classic, 2005)",
+        "platform": "Steam",
+        "release_date": "Jul 8, 2009",
+        "timestamp": "2026-02-25T01:25:26.121510"
+    },
+    {
+        "game_id": 6850,
+        "title": "Hitman 2: Silent Assassin",
+        "platform": "Steam",
+        "release_date": "Mar 15, 2007",
+        "timestamp": "2026-02-25T01:25:26.807928"
+    },
+    {
+        "game_id": 6860,
+        "title": "Hitman: Blood Money",
+        "platform": "Steam",
+        "release_date": "Mar 15, 2007",
+        "timestamp": "2026-02-25T01:25:27.486848"
+    },
+    {
+        "game_id": 6880,
+        "title": "Just Cause",
+        "platform": "Steam",
+        "release_date": "Mar 15, 2007",
+        "timestamp": "2026-02-25T01:25:28.171863"
+    },
+    {
+        "game_id": 6910,
+        "title": "Deus Ex: Game of the Year Edition",
+        "platform": "Steam",
+        "release_date": "Mar 29, 2007",
+        "timestamp": "2026-02-25T01:25:28.842517"
+    },
+    {
+        "game_id": 7670,
+        "title": "BioShock",
+        "platform": "Steam",
+        "release_date": "Aug 21, 2007",
+        "timestamp": "2026-02-25T01:25:29.537701"
+    },
+    {
+        "game_id": 7940,
+        "title": "Call of Duty 4: Modern Warfare (2007)",
+        "platform": "Steam",
+        "release_date": "Nov 12, 2007",
+        "timestamp": "2026-02-25T01:25:30.246045"
+    },
+    {
+        "game_id": 8190,
+        "title": "Just Cause 2",
+        "platform": "Steam",
+        "release_date": "Mar 23, 2010",
+        "timestamp": "2026-02-25T01:25:30.932598"
+    },
+    {
+        "game_id": 8500,
+        "title": "EVE Online",
+        "platform": "Steam",
+        "release_date": "Dec 15, 2010",
+        "timestamp": "2026-02-25T01:25:31.589850"
+    },
+    {
+        "game_id": 8850,
+        "title": "BioShock 2",
+        "platform": "Steam",
+        "release_date": "Feb 9, 2010",
+        "timestamp": "2026-02-25T01:25:32.270794"
+    },
+    {
+        "game_id": 8870,
+        "title": "BioShock Infinite",
+        "platform": "Steam",
+        "release_date": "Mar 25, 2013",
+        "timestamp": "2026-02-25T01:25:33.135103"
+    },
+    {
+        "game_id": 8930,
+        "title": "Sid Meier's Civilization V",
+        "platform": "Steam",
+        "release_date": "Sep 21, 2010",
+        "timestamp": "2026-02-25T01:25:33.879887"
+    },
+    {
+        "game_id": 8980,
+        "title": "Borderlands Game of the Year",
+        "platform": "Steam",
+        "release_date": "Aug 31, 2023",
+        "timestamp": "2026-02-25T01:25:34.737520"
+    },
+    {
+        "game_id": 9010,
+        "title": "Return to Castle Wolfenstein",
+        "platform": "Steam",
+        "release_date": "Aug 3, 2007",
+        "timestamp": "2026-02-25T01:25:35.408362"
+    },
+    {
+        "game_id": 9340,
+        "title": "Company of Heroes: Opposing Fronts",
+        "platform": "Steam",
+        "release_date": "Sep 24, 2007",
+        "timestamp": "2026-02-25T01:25:36.127488"
+    },
+    {
+        "game_id": 9480,
+        "title": "Saints Row 2",
+        "platform": "Steam",
+        "release_date": "Jan 7, 2009",
+        "timestamp": "2026-02-25T01:25:36.801261"
+    },
+    {
+        "game_id": 9900,
+        "title": "Star Trek Online",
+        "platform": "Steam",
+        "release_date": "Jan 31, 2012",
+        "timestamp": "2026-02-25T01:25:37.516667"
+    },
+    {
+        "game_id": 10090,
+        "title": "Call of Duty: World at War",
+        "platform": "Steam",
+        "release_date": "Nov 18, 2008",
+        "timestamp": "2026-02-25T01:25:38.159086"
+    },
+    {
+        "game_id": 10180,
+        "title": "Call of Duty: Modern Warfare 2 (2009)",
+        "platform": "Steam",
+        "release_date": "Nov 11, 2009",
+        "timestamp": "2026-02-25T01:25:38.844883"
+    },
+    {
+        "game_id": 10190,
+        "title": "Call of Duty: Modern Warfare 2 (2009)",
+        "platform": "Steam",
+        "release_date": "Nov 11, 2009",
+        "timestamp": "2026-02-25T01:25:39.555090"
+    },
+    {
+        "game_id": 10500,
+        "title": "Total War: EMPIRE \u2013 Definitive Edition",
+        "platform": "Steam",
+        "release_date": "Mar 4, 2009",
+        "timestamp": "2026-02-25T01:25:40.251592"
+    },
+    {
+        "game_id": 10680,
+        "title": "Aliens vs. Predator",
+        "platform": "Steam",
+        "release_date": "Feb 16, 2010",
+        "timestamp": "2026-02-25T01:25:40.917892"
+    },
+    {
+        "game_id": 11020,
+        "title": "TrackMania Nations Forever",
+        "platform": "Steam",
+        "release_date": "Apr 16, 2008",
+        "timestamp": "2026-02-25T01:25:41.589814"
+    },
+    {
+        "game_id": 12100,
+        "title": "Grand Theft Auto III",
+        "platform": "Steam",
+        "release_date": "Jan 4, 2008",
+        "timestamp": "2026-02-25T01:25:42.293648"
+    },
+    {
+        "game_id": 12110,
+        "title": "Grand Theft Auto: Vice City",
+        "platform": "Steam",
+        "release_date": "Jan 4, 2008",
+        "timestamp": "2026-02-25T01:25:42.995046"
+    },
+    {
+        "game_id": 12120,
+        "title": "Grand Theft Auto: San Andreas",
+        "platform": "Steam",
+        "release_date": "Jan 4, 2008",
+        "timestamp": "2026-02-25T01:25:43.660090"
+    },
+    {
+        "game_id": 12200,
+        "title": "Bully: Scholarship Edition",
+        "platform": "Steam",
+        "release_date": "Oct 21, 2008",
+        "timestamp": "2026-02-25T01:25:44.333150"
+    },
+    {
+        "game_id": 12210,
+        "title": "Grand Theft Auto IV: The Complete Edition",
+        "platform": "Steam",
+        "release_date": "Mar 24, 2020",
+        "timestamp": "2026-02-25T01:25:45.021207"
+    },
+    {
+        "game_id": 12220,
+        "title": "Grand Theft Auto: Episodes from Liberty City",
+        "platform": "Steam",
+        "release_date": "Apr 12, 2010",
+        "timestamp": "2026-02-25T01:25:45.711381"
+    },
+    {
+        "game_id": 13520,
+        "title": "Far Cry",
+        "platform": "Steam",
+        "release_date": "Apr 1, 2008",
+        "timestamp": "2026-02-25T01:25:46.383930"
+    },
+    {
+        "game_id": 15100,
+        "title": "Assassin's Creed: Director's Cut Edition",
+        "platform": "Steam",
+        "release_date": "Apr 9, 2008",
+        "timestamp": "2026-02-25T01:25:47.045350"
+    },
+    {
+        "game_id": 15620,
+        "title": "Warhammer 40,000: Dawn of War II - Anniversary Edition",
+        "platform": "Steam",
+        "release_date": "Feb 18, 2009",
+        "timestamp": "2026-02-25T01:25:47.727985"
+    },
+    {
+        "game_id": 17080,
+        "title": "Tribes: Ascend",
+        "platform": "Steam",
+        "release_date": "Jun 27, 2012",
+        "timestamp": "2026-02-25T01:25:48.393750"
+    },
+    {
+        "game_id": 17300,
+        "title": "Crysis",
+        "platform": "Steam",
+        "release_date": "Sep 17, 2008",
+        "timestamp": "2026-02-25T01:25:49.061448"
+    },
+    {
+        "game_id": 17330,
+        "title": "Crysis Warhead",
+        "platform": "Steam",
+        "release_date": "Sep 17, 2008",
+        "timestamp": "2026-02-25T01:25:49.736405"
+    },
+    {
+        "game_id": 17390,
+        "title": "SPORE",
+        "platform": "Steam",
+        "release_date": "Dec 19, 2008",
+        "timestamp": "2026-02-25T01:25:50.414272"
+    },
+    {
+        "game_id": 17410,
+        "title": "Mirror's Edge",
+        "platform": "Steam",
+        "release_date": "Jan 14, 2009",
+        "timestamp": "2026-02-25T01:25:51.091229"
+    },
+    {
+        "game_id": 17460,
+        "title": "Mass Effect (2007)",
+        "platform": "Steam",
+        "release_date": "Dec 19, 2008",
+        "timestamp": "2026-02-25T01:25:51.776294"
+    },
+    {
+        "game_id": 17470,
+        "title": "Dead Space (2008)",
+        "platform": "Steam",
+        "release_date": "Jan 9, 2009",
+        "timestamp": "2026-02-25T01:25:52.441880"
+    },
+    {
+        "game_id": 17480,
+        "title": "Command & Conquer: Red Alert 3",
+        "platform": "Steam",
+        "release_date": "Jan 8, 2009",
+        "timestamp": "2026-02-25T01:25:53.121996"
+    },
+    {
+        "game_id": 19900,
+        "title": "Far Cry 2",
+        "platform": "Steam",
+        "release_date": "Oct 22, 2008",
+        "timestamp": "2026-02-25T01:25:53.814924"
+    },
+    {
+        "game_id": 20570,
+        "title": "Warhammer 40,000: Dawn of War II Chaos Rising",
+        "platform": "Steam",
+        "release_date": "Mar 11, 2010",
+        "timestamp": "2026-02-25T01:25:54.497514"
+    },
+    {
+        "game_id": 20900,
+        "title": "The Witcher: Enhanced Edition Director's Cut",
+        "platform": "Steam",
+        "release_date": "Sep 19, 2008",
+        "timestamp": "2026-02-25T01:25:55.151289"
+    },
+    {
+        "game_id": 20920,
+        "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "platform": "Steam",
+        "release_date": "Apr 16, 2012",
+        "timestamp": "2026-02-25T01:25:55.945991"
+    },
+    {
+        "game_id": 21690,
+        "title": "Resident Evil 5",
+        "platform": "Steam",
+        "release_date": "Sep 15, 2009",
+        "timestamp": "2026-02-25T01:25:56.613280"
+    },
+    {
+        "game_id": 22320,
+        "title": "The Elder Scrolls III: Morrowind Game of the Year Edition",
+        "platform": "Steam",
+        "release_date": "Jun 16, 2009",
+        "timestamp": "2026-02-25T01:25:57.289864"
+    },
+    {
+        "game_id": 22330,
+        "title": "The Elder Scrolls IV: Oblivion Game of the Year Edition (2009)",
+        "platform": "Steam",
+        "release_date": "Jun 16, 2009",
+        "timestamp": "2026-02-25T01:25:57.964800"
+    },
+    {
+        "game_id": 22370,
+        "title": "Fallout 3: Game of the Year Edition",
+        "platform": "Steam",
+        "release_date": "Dec 17, 2009",
+        "timestamp": "2026-02-25T01:25:58.643787"
+    },
+    {
+        "game_id": 22380,
+        "title": "Fallout: New Vegas",
+        "platform": "Steam",
+        "release_date": "Oct 19, 2010",
+        "timestamp": "2026-02-25T01:25:59.330553"
+    },
+    {
+        "game_id": 23310,
+        "title": "The Last Remnant",
+        "platform": "Steam",
+        "release_date": "Apr 9, 2009",
+        "timestamp": "2026-02-25T01:26:00.041113"
+    },
+    {
+        "game_id": 24010,
+        "title": "Train Simulator Classic",
+        "platform": "Steam",
+        "release_date": "Sep 17, 2015",
+        "timestamp": "2026-02-25T01:26:03.244604"
+    },
+    {
+        "game_id": 24200,
+        "title": "DC Universe Online",
+        "platform": "Steam",
+        "release_date": "Nov 2, 2011",
+        "timestamp": "2026-02-25T01:26:04.006771"
+    },
+    {
+        "game_id": 24240,
+        "title": "PAYDAY The Heist",
+        "platform": "Steam",
+        "release_date": "Oct 20, 2011",
+        "timestamp": "2026-02-25T01:26:04.685403"
+    },
+    {
+        "game_id": 24960,
+        "title": "Battlefield: Bad Company 2",
+        "platform": "Steam",
+        "release_date": "Mar 2, 2010",
+        "timestamp": "2026-02-25T01:26:05.378639"
+    },
+    {
+        "game_id": 24980,
+        "title": "Mass Effect 2 (2010 Edition)",
+        "platform": "Steam",
+        "release_date": "",
+        "timestamp": "2026-02-25T01:26:06.062166"
+    },
+    {
+        "game_id": 26800,
+        "title": "Braid",
+        "platform": "Steam",
+        "release_date": "Apr 10, 2009",
+        "timestamp": "2026-02-25T01:26:06.735353"
+    },
+    {
+        "game_id": 32370,
+        "title": "STAR WARS Knights of the Old Republic",
+        "platform": "Steam",
+        "release_date": "Sep 5, 2009",
+        "timestamp": "2026-02-25T01:26:07.417244"
+    },
+    {
+        "game_id": 32430,
+        "title": "STAR WARS - The Force Unleashed Ultimate Sith Edition",
+        "platform": "Steam",
+        "release_date": "Dec 15, 2009",
+        "timestamp": "2026-02-25T01:26:08.081992"
+    },
+    {
+        "game_id": 32470,
+        "title": "STAR WARS Empire at War - Gold Pack",
+        "platform": "Steam",
+        "release_date": "May 25, 2010",
+        "timestamp": "2026-02-25T01:26:08.853225"
+    },
+    {
+        "game_id": 32800,
+        "title": "Lord of the Rings: War in the North",
+        "platform": "Steam",
+        "release_date": "Nov 1, 2011",
+        "timestamp": "2026-02-25T01:26:09.623092"
+    }
+]

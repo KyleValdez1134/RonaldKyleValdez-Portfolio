@@ -1,1 +1,82 @@
-
+[
+    {
+        "game_id": "730",
+        "title": "Counter-Strike 2",
+        "platform": "Steam",
+        "price": null,
+        "discount": null,
+        "timestamp": "2026-02-25T00:51:52.013217"
+    },
+    {
+        "game_id": "686060",
+        "title": "Mewgenics",
+        "platform": "Steam",
+        "price": 26.99,
+        "discount": null,
+        "timestamp": "2026-02-25T00:51:52.013228"
+    },
+    {
+        "game_id": "1808500",
+        "title": "ARC Raiders",
+        "platform": "Steam",
+        "price": 39.99,
+        "discount": null,
+        "timestamp": "2026-02-25T00:51:52.013232"
+    },
+    {
+        "game_id": "230410",
+        "title": "Warframe",
+        "platform": "Steam",
+        "price": null,
+        "discount": null,
+        "timestamp": "2026-02-25T00:51:52.013235"
+    },
+    {
+        "game_id": "1771300",
+        "title": "Kingdom Come: Deliverance II",
+        "platform": "Steam",
+        "price": 29.99,
+        "discount": null,
+        "timestamp": "2026-02-25T00:51:52.013239"
+    },
+    {
+        "game_id": "578080",
+        "title": "PUBG: BATTLEGROUNDS",
+        "platform": "Steam",
+        "price": null,
+        "discount": null,
+        "timestamp": "2026-02-25T00:51:52.013241"
+    },
+    {
+        "game_id": "1172470",
+        "title": "Apex Legends\u2122",
+        "platform": "Steam",
+        "price": null,
+        "discount": null,
+        "timestamp": "2026-02-25T00:51:52.013244"
+    },
+    {
+        "game_id": "570",
+        "title": "Dota 2",
+        "platform": "Steam",
+        "price": null,
+        "discount": null,
+        "timestamp": "2026-02-25T00:51:52.013246"
+    },
+    {
+        "game_id": "3564740",
+        "title": "Where Winds Meet",
+        "platform": "Steam",
+        "price": null,
+        "discount": null,
+        "timestamp": "2026-02-25T00:51:52.013248"
+    },
+    {
+        "game_id": "553850",
+        "title": "HELLDIVERS\u2122 2",
+        "platform": "Steam",
+        "price": 39.99,
+        "discount": null,
+        "timestamp": "2026-02-25T00:51:52.013250"
+    }
+]
