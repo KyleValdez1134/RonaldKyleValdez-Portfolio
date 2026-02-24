@@ -1,6 +1,5 @@
 ' ==========================================================
 ' VBA Automation Tool - Consolidate Files in Folder
-' Author: Ronald Kyle J. Valdez
 ' Purpose: Merge all Excel files in a folder into one sheet
 ' ==========================================================
 
