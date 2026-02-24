@@ -22,6 +22,8 @@ Explore my collection of automation tools across different languages:
 - [Excel VBA Consolidation Tool](./scripts/VBA/ConsolidateFolderFiles.vb)
 - [Integrity Check Procedures](./scripts/SQL/IntegrityCheckProcs.sql)
 - [SQL Validation Test Scripts](./scripts/SQL/SQL-Validation-TestScripts.sql)
+- [Upload SharePoint Files with Custom Naming](./scripts/VBScript/UploadSharePointFiles_Custom.vbs)
+- [Download SharePoint Files and Log to Excel](./scripts/VBScript/DownloadSharePointFiles.vbs)
 
 
 ## 📊 Featured Skills
