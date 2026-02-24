@@ -36,7 +36,7 @@ Explore my collection of automation tools across different languages:
   [View](./scripts/VBA/ConsolidateFolderFiles.vb) | [Download](https://raw.githubusercontent.com/username/repo/main/scripts/VBA/ConsolidateFolderFiles.vb)
 
 - Send Emails with Draft or Delayed Options  
-  [View](./modules/VBA/SendEmailsWithOptions.bas) | [Download](https://raw.githubusercontent.com/username/repo/main/modules/VBA/SendEmailsWithOptions.bas)
+  [View](./scripts/VBA/SendEmailsWithOptions.bas) | [Download](https://raw.githubusercontent.com/username/repo/main/scripts/VBA/SendEmailsWithOptions.bas)
 
 ---
 
