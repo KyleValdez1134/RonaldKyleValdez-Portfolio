@@ -18,15 +18,39 @@ With a decade of experience in BI and QA, I bridge technical rigor with business
 ---
 ## ⚙️ Automation Scripts
 Explore my collection of automation tools across different languages:
-- [SQL Integrity Checker](./scripts/SQL/SQLIntegrityChecker.sql)
-- [Excel VBA Consolidation Tool](./scripts/VBA/ConsolidateFolderFiles.vb)
-- [Integrity Check Procedures](./scripts/SQL/IntegrityCheckProcs.sql)
-- [SQL Validation Test Scripts](./scripts/SQL/SQL-Validation-TestScripts.sql)
-- [Upload SharePoint Files with Custom Naming](./scripts/VBScript/UploadSharePointFiles_Custom.vbs)
-- [Download SharePoint Files and Log to Excel](./scripts/VBScript/DownloadSharePointFiles.vbs)
-- [Folder Report to Excel](./scripts/VBScript/FolderReport.vbs)
-- [Send Emails with Draft or Delayed Options](./modules/VBA/SendEmailsWithOptions.bas)
 
+### 🗄️ SQL Scripts
+- SQL Integrity Checker  
+  [View](./scripts/SQL/SQLIntegrityChecker.sql) | [Download](https://raw.githubusercontent.com/username/repo/main/scripts/SQL/SQLIntegrityChecker.sql)
+
+- Integrity Check Procedures  
+  [View](./scripts/SQL/IntegrityCheckProcs.sql) | [Download](https://raw.githubusercontent.com/username/repo/main/scripts/SQL/IntegrityCheckProcs.sql)
+
+- SQL Validation Test Scripts  
+  [View](./scripts/SQL/SQL-Validation-TestScripts.sql) | [Download](https://raw.githubusercontent.com/username/repo/main/scripts/SQL/SQL-Validation-TestScripts.sql)
+
+---
+
+### 📊 VBA Macros
+- Excel VBA Consolidation Tool  
+  [View](./scripts/VBA/ConsolidateFolderFiles.vb) | [Download](https://raw.githubusercontent.com/username/repo/main/scripts/VBA/ConsolidateFolderFiles.vb)
+
+- Send Emails with Draft or Delayed Options  
+  [View](./modules/VBA/SendEmailsWithOptions.bas) | [Download](https://raw.githubusercontent.com/username/repo/main/modules/VBA/SendEmailsWithOptions.bas)
+
+---
+
+### 🖥️ VBScript Automation
+- Upload SharePoint Files with Custom Naming  
+  [View](./scripts/VBScript/UploadSharePointFiles_Custom.vbs) | [Download](https://raw.githubusercontent.com/username/repo/main/scripts/VBScript/UploadSharePointFiles_Custom.vbs)
+
+- Download SharePoint Files and Log to Excel  
+  [View](./scripts/VBScript/DownloadSharePointFiles.vbs) | [Download](https://raw.githubusercontent.com/username/repo/main/scripts/VBScript/DownloadSharePointFiles.vbs)
+
+- Folder Report to Excel  
+  [View](./scripts/VBScript/FolderReport.vbs) | [Download](https://raw.githubusercontent.com/username/repo/main/scripts/VBScript/FolderReport.vbs)
+
+---
 
 ## 📊 Featured Skills
 - **Business Intelligence**: Power BI, Power Query, DAX, SQL Server  
