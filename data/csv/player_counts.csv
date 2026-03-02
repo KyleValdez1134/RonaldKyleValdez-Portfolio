@@ -1,1 +1,11 @@
-game_id,title,current_players,peak_players,timestamp
+game_id,title,platform,current_players,timestamp
+730,Counter-Strike: Global Offensive,Steam,945081,2026-02-25T17:57:16.016825
+1172470,Apex Legends,Steam,83227,2026-02-25T17:57:16.604488
+578080,PUBG: BATTLEGROUNDS,Steam,308384,2026-02-25T17:57:17.153416
+1623730,Palworld,Steam,33221,2026-02-25T17:57:17.871044
+440,Team Fortress 2,Steam,39272,2026-02-25T17:57:18.592274
+1938090,Call of Duty: Modern Warfare II,Steam,17544,2026-02-25T17:57:19.473317
+1063730,New World: Aeternum,Steam,406,2026-02-25T17:57:20.218873
+2358720,Black Myth: Wukong,Steam,18150,2026-02-25T17:57:20.776679
+271590,Grand Theft Auto V Legacy,Steam,69770,2026-02-25T17:57:21.433758
+550,Left 4 Dead 2,Steam,12648,2026-02-25T17:57:22.177644

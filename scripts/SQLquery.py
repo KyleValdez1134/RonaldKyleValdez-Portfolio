@@ -1,23 +1,19 @@
 import sqlite3
 
-# Connect to your SQLite database
+# Connect to your database
 conn = sqlite3.connect("./data/sqlite/db/deals.db")
 cursor = conn.cursor()
 
-# Show all tables
-cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
-print("Tables:", cursor.fetchall())
+# Check existing columns in the reviews table
+cursor.execute("PRAGMA table_info(player_counts)")
+columns = [col[1] for col in cursor.fetchall()]
 
-# Show first 5 deals
-cursor.execute("SELECT * FROM release_dates;")
-rows = cursor.fetchall()
+# Add platform column if missing
+if "platform" not in columns:
+    cursor.execute("ALTER TABLE player_counts ADD COLUMN platform TEXT")
+    print("Added 'platform' column to player_counts table.")
+else:
+    print("'platform' column already exists.")
 
-print("\nSample deals:")
-for row in rows:
-    print(row)
-
-print("\nGames with discount > 50%:")
-for row in rows:
-    print(row)
-
+conn.commit()
 conn.close()
