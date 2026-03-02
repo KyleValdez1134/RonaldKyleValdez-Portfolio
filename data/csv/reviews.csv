@@ -1,1 +1,6 @@
-game_id,title,platform,review_score,review_count,sentiment
+game_id,title,platform,review_score,review_count,timestamp
+730,Counter-Strike: Global Offensive,Steam,Very Positive,1414782,2026-02-25T17:29:25.886518
+1172470,Apex Legends,Steam,Mostly Positive,1036,2026-02-25T17:29:26.628642
+578080,PUBG: BATTLEGROUNDS,Steam,Mixed,278404,2026-02-25T17:29:27.398815
+1623730,Palworld,Steam,Overwhelmingly Positive,148765,2026-02-25T17:29:28.145897
+440,Team Fortress 2,Steam,Mostly Positive,26772,2026-02-25T17:29:28.963357

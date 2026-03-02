@@ -1,1 +1,72 @@
-[]
+[
+    {
+        "game_id": 730,
+        "title": "Counter-Strike: Global Offensive",
+        "platform": "Steam",
+        "current_players": 945081,
+        "timestamp": "2026-02-25T17:57:16.016825"
+    },
+    {
+        "game_id": 1172470,
+        "title": "Apex Legends",
+        "platform": "Steam",
+        "current_players": 83227,
+        "timestamp": "2026-02-25T17:57:16.604488"
+    },
+    {
+        "game_id": 578080,
+        "title": "PUBG: BATTLEGROUNDS",
+        "platform": "Steam",
+        "current_players": 308384,
+        "timestamp": "2026-02-25T17:57:17.153416"
+    },
+    {
+        "game_id": 1623730,
+        "title": "Palworld",
+        "platform": "Steam",
+        "current_players": 33221,
+        "timestamp": "2026-02-25T17:57:17.871044"
+    },
+    {
+        "game_id": 440,
+        "title": "Team Fortress 2",
+        "platform": "Steam",
+        "current_players": 39272,
+        "timestamp": "2026-02-25T17:57:18.592274"
+    },
+    {
+        "game_id": 1938090,
+        "title": "Call of Duty: Modern Warfare II",
+        "platform": "Steam",
+        "current_players": 17544,
+        "timestamp": "2026-02-25T17:57:19.473317"
+    },
+    {
+        "game_id": 1063730,
+        "title": "New World: Aeternum",
+        "platform": "Steam",
+        "current_players": 406,
+        "timestamp": "2026-02-25T17:57:20.218873"
+    },
+    {
+        "game_id": 2358720,
+        "title": "Black Myth: Wukong",
+        "platform": "Steam",
+        "current_players": 18150,
+        "timestamp": "2026-02-25T17:57:20.776679"
+    },
+    {
+        "game_id": 271590,
+        "title": "Grand Theft Auto V Legacy",
+        "platform": "Steam",
+        "current_players": 69770,
+        "timestamp": "2026-02-25T17:57:21.433758"
+    },
+    {
+        "game_id": 550,
+        "title": "Left 4 Dead 2",
+        "platform": "Steam",
+        "current_players": 12648,
+        "timestamp": "2026-02-25T17:57:22.177644"
+    }
+]

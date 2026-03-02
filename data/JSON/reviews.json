@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "game_id": 730,
+        "title": "Counter-Strike: Global Offensive",
+        "platform": "Steam",
+        "review_score": "Very Positive",
+        "review_count": 1414782,
+        "timestamp": "2026-02-25T17:29:25.886518"
+    },
+    {
+        "game_id": 1172470,
+        "title": "Apex Legends",
+        "platform": "Steam",
+        "review_score": "Mostly Positive",
+        "review_count": 1036,
+        "timestamp": "2026-02-25T17:29:26.628642"
+    },
+    {
+        "game_id": 578080,
+        "title": "PUBG: BATTLEGROUNDS",
+        "platform": "Steam",
+        "review_score": "Mixed",
+        "review_count": 278404,
+        "timestamp": "2026-02-25T17:29:27.398815"
+    },
+    {
+        "game_id": 1623730,
+        "title": "Palworld",
+        "platform": "Steam",
+        "review_score": "Overwhelmingly Positive",
+        "review_count": 148765,
+        "timestamp": "2026-02-25T17:29:28.145897"
+    },
+    {
+        "game_id": 440,
+        "title": "Team Fortress 2",
+        "platform": "Steam",
+        "review_score": "Mostly Positive",
+        "review_count": 26772,
+        "timestamp": "2026-02-25T17:29:28.963357"
+    }
+]
