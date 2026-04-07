@@ -22,16 +22,3 @@ This section showcases practical business scenarios, technical modeling approach
 2. Open the `.pbix` file in Power BI Desktop.
 3. Review the accompanying notes for context.
 4. Explore filters, slicers, and drill‑downs to see the full functionality.
-
----
-
-## 📝 Notes
-- The dashboard uses **synthetic or anonymized datasets** for demonstration.
-- Documentation explains **data sources, transformations, and modeling logic**.
-- Designed for **scalability** (tested with 2M+ rows).
-
----
-
-## 📌 Next Steps
-- Check out the [Projects](../projects/) section for end‑to‑end case studies.
-- Explore [Automation Scripts](../scripts/) for reusable ETL/QA workflows.
