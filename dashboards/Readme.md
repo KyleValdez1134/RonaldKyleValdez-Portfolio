@@ -13,29 +13,22 @@ This section showcases practical business scenarios, technical modeling approach
 ---
 
 ## 📂 Contents
-- **Finance & Analytics Dashboards**  
-  Expense tracking, revenue forecasting, and KPI monitoring.
-
-- **QA & Testing Dashboards**  
-  Automated test coverage, defect trends, and release readiness.
-
-- **Recruiter‑Facing Dashboards**  
-  Tailored views emphasizing business outcomes and technical rigor.
+- [Sample Airlines Dashboard](https://github.com/KyleValdez1134/RonaldKyleValdez-Portfolio/tree/main/dashboards/Sample%20-Airlines)
 
 ---
 
 ## 🚀 How to Use
-1. Navigate to a dashboard folder.
+1. Navigate to the dashboard folder via the link above.
 2. Open the `.pbix` file in Power BI Desktop.
-3. Review the accompanying `README.md` or notes for context.
+3. Review the accompanying notes for context.
 4. Explore filters, slicers, and drill‑downs to see the full functionality.
 
 ---
 
 ## 📝 Notes
-- Each dashboard includes **synthetic or anonymized datasets** for demonstration.
+- The dashboard uses **synthetic or anonymized datasets** for demonstration.
 - Documentation explains **data sources, transformations, and modeling logic**.
-- Dashboards are designed for **scalability** (tested with 2M+ rows).
+- Designed for **scalability** (tested with 2M+ rows).
 
 ---
 
